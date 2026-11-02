@@ -1,0 +1,8 @@
+﻿metric family,m1 metric class,papers (m1),claim property,distinct ECs linked by primary claims
+Effectiveness (task and diagnostic),TE,122,effectiveness,3088
+Test adequacy,SA,59,adequacy,1727
+Efficiency or cost,EC,136,efficiency/cost,1083
+Fault revelation,FR,71,fault revelation,780
+Artefact validity,AV,75,validity,1378
+Human or practical quality,HPQ,43,human/practical quality,387
+Diversity or stability,DS,31,robustness/stability,1095

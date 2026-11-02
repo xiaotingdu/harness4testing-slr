@@ -1,0 +1,46 @@
+﻿record_id,title,doi,issue,volume,source
+S0096,A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization,10.1145/3660771,FSE,1,Crossref works/10.1145/3660771
+S0156,ACME: Automated Clause Mapping Engine for Testing Emerging Database Systems,10.1145/3797134,FSE,3,Crossref works/10.1145/3797134
+S0518,Automated Knowledge-Aware Test Reuse,10.1145/3808146,FSE,3,Crossref works/10.1145/3808146
+S0534,Automated Repair of TEE Partitioning Issues via DSL-Guided and LLM-Assisted Patching,10.1145/3808207,FSE,3,Crossref works/10.1145/3808207
+S0763,Can Old Tests Do New Tricks for Resolving SWE Issues?,10.1145/3808148,FSE,3,Crossref works/10.1145/3808148
+S0771,CASCADE: Detecting Inconsistencies between Code and Documentation with Automatic Test Generation,10.1145/3808175,FSE,3,Crossref works/10.1145/3808175
+S0788,ChainDelta: Automatic Patch-Based Exploit Generation for Ethereum with Fuzzing Agents,10.1145/3808157,FSE,3,Crossref works/10.1145/3808157
+S0800,ChatDBG: Augmenting Debugging with Large Language Models,10.1145/3729355,FSE,2,Crossref works/10.1145/3729355
+S0886,CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings,10.1145/3808140,FSE,3,Crossref works/10.1145/3808140
+S1028,CoverUp: Effective High Coverage Test Generation for Python,10.1145/3729398,FSE,2,Crossref works/10.1145/3729398
+S1047,CuFuzz: An API-Knowledge-Graph Coverage-Driven Fuzzing Framework for CUDA Libraries,10.1145/3808170,FSE,3,Crossref works/10.1145/3808170
+S1078,Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?,10.1145/3797110,FSE,3,Crossref works/10.1145/3797110
+S1109,Demystifying LLM-Based Software Engineering Agents,10.1145/3715754,FSE,2,Crossref works/10.1145/3715754
+S1256,Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis,10.1145/3797126,FSE,3,Crossref works/10.1145/3797126
+S1343,Error Delayed Is Not Error Handled: Understanding and Fixing Propagated Error-Handling Bugs,10.1145/3729384,FSE,2,Crossref works/10.1145/3729384
+S1354,Evaluating and Improving ChatGPT for Unit Test Generation,10.1145/3660783,FSE,1,Crossref works/10.1145/3660783
+S1428,EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair,10.1145/3808181,FSE,3,Crossref works/10.1145/3808181
+S1672,GadgetHunter: Region-Based Neuro-symbolic Detection of Java Deserialization Vulnerabilities,10.1145/3797065,FSE,3,Crossref works/10.1145/3797065
+S1682,Generalizing Test Cases for Comprehensive Test Scenario Coverage,10.1145/3808216,FSE,3,Crossref works/10.1145/3808216
+S1689,Generating Project-Specific Test Cases with Requirement Validation Intention,10.1145/3832181,ISSTA,3,Crossref title search (exact title match) -> 10.1145/3832181
+S1740,GraphLocator: Graph-Guided Causal Reasoning for Issue Localization,10.1145/3797079,FSE,3,Crossref works/10.1145/3797079
+S1880,iCoRe: An Iterative Correlation-Aware Retriever for Bug Reproduction Test Generation,10.1145/3808193,FSE,3,Crossref works/10.1145/3808193
+S1989,Intention-Based GUI Test Migration for Mobile Apps using Large Language Models,10.1145/3728978,ISSTA,2,Crossref works/10.1145/3728978
+S2204,Lingxi: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling,10.1145/3832270,ISSTA,3,Crossref title search (exact title match) -> 10.1145/3832270
+S2214,LlamaRestTest: Effective REST API Testing with Small Language Models,10.1145/3715737,FSE,2,Crossref works/10.1145/3715737
+S2263,LLM-Based Repair of Static Nullability Errors,10.1145/3832114,ISSTA,3,Crossref title search (exact title match) -> 10.1145/3832114
+S2317,LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance,10.1145/3715763,FSE,2,Crossref works/10.1145/3715763
+S2509,MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis,10.1145/3808213,FSE,3,Crossref works/10.1145/3808213
+S2721,PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages,10.1145/3808178,FSE,3,Crossref works/10.1145/3808178
+S2773,Program Analysis Guided LLM Agent for Proof-of-Concept Generation,10.1145/3832199,ISSTA,3,Crossref title search (stored title contained in published title) -> 10.1145/3832199
+S2863,RAT: Retrieval-Augmented Testing of Certificate Revocation List Parsers in TLS Implementations,10.1145/3808212,FSE,3,Crossref works/10.1145/3808212
+S2869,REACCEPT: Automated Co-evolution of Production and Test Code Based on Dynamic Validation and Large Language Models,10.1145/3728930,ISSTA,2,Crossref works/10.1145/3728930
+S2900,ReFLAIR: Detecting Responsive Layout Reflow Issues using Multimodal Generative AI,10.1145/3808136,FSE,3,Crossref works/10.1145/3808136
+S3025,RippleGUItester: Change-Aware Exploratory Testing,10.1145/3832240,ISSTA,3,Crossref title search (exact title match) -> 10.1145/3832240
+S3065,Sakura: An Approach for Generating Complex Tests from Natural Language Test Descriptions,10.1145/3832112,ISSTA,3,Crossref works/10.1145/3832112
+S3260,Standing on the Shoulders of Giants: Bug-Aware Automated GUI Testing via Retrieval Augmentation,10.1145/3715755,FSE,2,Crossref works/10.1145/3715755
+S3444,Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation,10.1145/3832122,ISSTA,3,Crossref title search (exact title match) -> 10.1145/3832122
+S3474,TestTailor: Generating High-Coverage Tests via Path-Proximal Tests with LLMs,10.1145/3797140,FSE,3,Crossref works/10.1145/3797140
+S3541,TLR: Codebase-Level C Memory Management Error Repair with Large Language Models,10.1145/3797085,FSE,3,Crossref works/10.1145/3797085
+S3590,Towards Explorative IRBL: Combining Semantic Retrieval with LLM-driven Iterative Code Exploration,10.1145/3832151,ISSTA,3,Crossref title search (exact title match) -> 10.1145/3832151
+S3692,Uncovering Business Logic Bugs via Semantics-Driven Unit Test Generation,10.1145/3832192,ISSTA,3,Crossref title search (stored title contained in published title) -> 10.1145/3832192
+S3738,Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-Based RAG,10.1145/3728913,ISSTA,2,Crossref works/10.1145/3728913
+S3774,Validating Network Protocol Parsers with Traceable RFC Document Interpretation,10.1145/3728955,ISSTA,2,Crossref works/10.1145/3728955
+S3803,ViBR: Automated Bug Replay from Video-based Reports using Vision-Language Models,10.1145/3808152,FSE,3,Crossref works/10.1145/3808152
+S3857,WebTestPilot: Agentic End-to-End Web Testing against Natural Language Specification by Inferring Oracles with Symbolized GUI Elements,10.1145/3797115,FSE,3,Crossref works/10.1145/3797115

@@ -1,0 +1,17 @@
+﻿measure,value
+all comparison rows,1049
+papers with any comparison,138
+"distinct HC pairs, all rows",667
+direction=gain,819
+direction=mixed,197
+direction=loss,24
+direction=none,9
+directional rows (gain/loss/mixed),1040
+papers with directional rows,138
+distinct HC pairs with directional rows,665
+trade-off rows (gain_and_loss = true),190
+trade-off rows among directional rows,190
+papers with trade-off rows,55
+directional rows changing one component letter,513
+directional rows changing several component letters (bundle),527
+directional rows without a component letter,0

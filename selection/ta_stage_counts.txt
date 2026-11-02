@@ -1,0 +1,9 @@
+Title/abstract stage counts (after first-author adjudication and duplicate review)
+Records screened: 3942
+Duplicates (first-author review): 14
+Agreed enter full text: 940
+Agreed exclude: 2432
+Disagreements adjudicated: 553 -> enter 378, exclude 175
+Wrongly marked duplicates decided by first author: 3 -> enter 1
+Excluded at title/abstract: 2609
+Sought for full-text retrieval: 1319

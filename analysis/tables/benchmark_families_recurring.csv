@@ -1,0 +1,11 @@
+﻿family,papers,principal_task,unit_test_generation,test_oracle_generation,system_test_input_generation,bug_analysis,debugging,program_repair,record_ids
+Defects4J,25,program_repair,7,0,0,0,6,12,S0096; S0182; S0527; S0671; S0987; S1001; S1431; S1500; S1560; S1591; S1635; S1811; S2159; S2230; S2440; S2561; S2814; S2920; S2923; S3197; S3420; S3444; S3450; S3537; S3737
+SWE-bench (all variants),22,program_repair,2,0,0,0,4,16,S0201; S0486; S0682; S0763; S1076; S1109; S1256; S1353; S1428; S1740; S2017; S2019; S2204; S2814; S3124; S3157; S3237; S3329; S3444; S3536; S3590; S3737
+HumanEval,8,unit_test_generation,5,0,0,0,0,3,S1001; S1028; S1227; S1354; S1431; S1773; S2440; S2551
+Themis,7,system_test_input_generation,0,0,7,0,0,0,S0717; S1732; S1986; S2393; S3260; S3803; S3817
+QuixBugs,6,program_repair,1,0,0,0,0,5,S0527; S0987; S1001; S2496; S2814; S3537
+CodaMosa benchmark,4,unit_test_generation,4,0,0,0,0,0,S0182; S1028; S3474; S3475
+ARVO,3,program_repair,0,0,1,0,0,2,S1956; S2773; S3861
+AndroR2,3,system_test_input_generation,0,0,3,0,0,0,S0717; S1036; S2631
+BugsInPy,3,unit_test_generation,1,0,0,0,1,1,S0096; S1431; S2902
+ReCDroid dataset,3,system_test_input_generation,0,0,3,0,0,0,S0717; S1036; S2631

@@ -1,0 +1,6 @@
+﻿old table row,new property values,primary_claims,share
+Effectiveness (task and diagnostic effectiveness merged),effectiveness,1163,38.6%
+Test adequacy,adequacy,452,15.0%
+Efficiency or cost,efficiency/cost,360,11.9%
+Fault revelation,fault revelation,264,8.8%
+Other evaluated properties,validity; human/practical quality; robustness/stability; other,776,25.7%

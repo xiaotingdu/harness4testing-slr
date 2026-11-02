@@ -1,0 +1,18 @@
+﻿check,passed,detail
+tasks sum to corpus,True,
+half-years sum to corpus,True,
+years sum to corpus,True,"{2024: 19, 2026: 71, 2025: 64}"
+signature counts sum to corpus,True,
+venues sum to corpus,True,
+PACMSE papers resolved,True,
+artefact codes sum to corpus,True,
+paper-level presence >= proposed-system presence,True,
+relation keys present iff both endpoints present,True,
+primary claim alignment sums,True,
+claim-type mapping covers all primary claims,True,
+HC roles sum,True,"{'proposed': 169, 'variant': 149, 'ablation': 560}"
+directional + none = all comparisons,True,
+m2 cross-references resolve,False,S2317 EC E13 -> missing not_reported; S2317 EC E14 -> missing not_reported; S2317 EC E15 -> missing not_reported; S2317 EC E16 -> missing not_reported; S2317 EC E17 -> missing not_reported
+claims whose metrics field is a string,False,"30 claims in papers S0156, S0250, S1001, S1036, S1152, S2230, S2900, S3329, S3444"
+HCs with empty components string,False,S0155 H5 (ablation); S0155 H6 (variant); S0229 H6 (variant); S0953 H2 (ablation); S1292 H5 (ablation); S1316 H2 (ablation); S2666 H6 (variant); S3383 H3 (ablation); S3475 H6 (variant); S3649 H3 (ablation)
+unmapped inventory rows,True,

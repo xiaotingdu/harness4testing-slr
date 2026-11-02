@@ -1,0 +1,8 @@
+﻿task,family,papers,share
+unit_test_generation,construct or execute testing artefacts,32,20.8%
+test_oracle_generation,construct or execute testing artefacts,6,3.9%
+system_test_input_generation,construct or execute testing artefacts,53,34.4%
+bug_analysis,analyse or resolve failures,5,3.2%
+debugging,analyse or resolve failures,16,10.4%
+program_repair,analyse or resolve failures,42,27.3%
+TOTAL,,154,100.0%

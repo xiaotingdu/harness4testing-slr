@@ -1,0 +1,513 @@
+﻿record_id,task,benchmark_string,families
+S0096,debugging,Defects4J v1.0,Defects4J
+S0096,debugging,BugsInPy,BugsInPy
+S0141,program_repair,A11YBench-Lite,
+S0141,program_repair,A11YBench-Full,
+S0155,program_repair,"ACFix AC vulnerability benchmark (118 cases: NVD CVEs, DeFiHackLabs, tintinweb vulnerability dataset, SmartFix dataset, media sources)",
+S0155,program_repair,Slither/SoMo/SPCon TP and FP cases,Slither/SoMo/SPCon labelled cases
+S0156,system_test_input_generation,QuestDB,
+S0156,system_test_input_generation,TDEngine,
+S0156,system_test_input_generation,RisingWave,
+S0156,system_test_input_generation,CrateDB,
+S0182,unit_test_generation,"CodaMosa Python benchmark (27 projects, 486 modules)",CodaMosa benchmark
+S0182,unit_test_generation,"Defects4J (Chart, Lang, Math, Time)",Defects4J
+S0182,unit_test_generation,Three internal Huawei Java projects,
+S0190,system_test_input_generation,ERAP,ERAP
+S0190,system_test_input_generation,ESC,ESC
+S0190,system_test_input_generation,Smartbugs-curated,SmartBugs-curated
+S0190,system_test_input_generation,RSD (ReentrancyStudy-Data),ReentrancyStudy-Data
+S0190,system_test_input_generation,ATR (All Things Reentry),All Things Reentrancy
+S0190,system_test_input_generation,SSE (Solidity Security by Example),Solidity Security by Example
+S0190,system_test_input_generation,Thunder Brawl (case study),
+S0201,program_repair,SWE-bench Verified,SWE-bench (all variants)
+S0229,program_repair,TF Benchmark (123 Meta test failures),
+S0229,program_repair,PatchGen benchmark (210 tasks),
+S0229,program_repair,LLM-as-a-Judge benchmark (244 patches),
+S0229,program_repair,Meta production test-failure tasks,
+S0250,system_test_input_generation,BugCraft-Bench (86 Minecraft: Java Edition crash bug reports from Mojira),
+S0352,program_repair,SIR,SIR
+S0352,program_repair,Pecan benchmarks,Pecan benchmarks
+S0352,program_repair,JaConTeBe,JaConTeBe
+S0352,program_repair,PFix benchmarks,PFix benchmarks
+S0352,program_repair,Sunflow,
+S0352,program_repair,Lusearch,
+S0352,program_repair,Avrora,
+S0405,debugging,Authors' dataset of 34 unique fuzz driver crash cases across 27 C/C++ libraries (generated via OSS-Fuzz-Gen),
+S0405,debugging,OSS-Fuzz-Gen deployment over 277 APIs,
+S0486,program_repair,SWE-bench,SWE-bench (all variants)
+S0486,program_repair,SWE-bench lite,SWE-bench (all variants)
+S0486,program_repair,SWE-bench Devin subset,SWE-bench (all variants)
+S0514,unit_test_generation,"TDD-Bench-Verified (filtered, N=426)",TDD-Bench
+S0514,unit_test_generation,PyngBench,
+S0514,unit_test_generation,"Mozilla repositories in vivo (bugbug, bugbot, libmozdata)",
+S0518,unit_test_generation,NumPy 2.3.0,
+S0518,unit_test_generation,SciPy 1.16.0,
+S0518,unit_test_generation,CuPy 13.5.1,
+S0518,unit_test_generation,scikit-learn 1.7.0,
+S0518,unit_test_generation,cuML 25.06.0,
+S0518,unit_test_generation,Numba (NaiRAGBaseline comparison),
+S0527,program_repair,Defects4J 1.2,Defects4J
+S0527,program_repair,Defects4J 2.0,Defects4J
+S0527,program_repair,QuixBugs-Python,QuixBugs
+S0527,program_repair,QuixBugs-Java,QuixBugs
+S0527,program_repair,ConDefects,ConDefects
+S0532,program_repair,OpenID bug dataset (23 bugs from OpenID libraries),
+S0534,program_repair,PartitioningE-Bench,
+S0534,program_repair,real-world TEE projects from GitHub,
+S0666,system_test_input_generation,"90 F-Droid apps (60 memory-pool apps, 30 testing apps)",
+S0666,system_test_input_generation,200 Google Play apps,
+S0666,system_test_input_generation,Wallet app versions v2.0-v5.0,
+S0666,system_test_input_generation,10 real-world web apps,
+S0671,debugging,"Defects4J v2.0.0 BIC dataset (An et al., 130 BICs)",Defects4J
+S0682,debugging,SWE-bench-Lite,SWE-bench (all variants)
+S0717,system_test_input_generation,ReCDroid evaluation dataset,ReCDroid dataset
+S0717,system_test_input_generation,ScopeDroid evaluation dataset,ScopeDroid dataset
+S0717,system_test_input_generation,AndroR2,AndroR2
+S0717,system_test_input_generation,Su et al. 2021 Android bug benchmark (151 bug reports in total),Themis
+S0763,program_repair,SWE-Bench Lite,SWE-bench (all variants)
+S0763,program_repair,SWE-Bench Verified,SWE-bench (all variants)
+S0771,bug_analysis,Cascade dataset (71 inconsistent / 814 consistent Java method-documentation pairs),
+S0771,bug_analysis,"real-world Java, C# and Rust repositories",
+S0788,system_test_input_generation,25 real-world vulnerability patches from go-ethereum and op-geth (authors' benchmark),
+S0788,system_test_input_generation,"Real-world auditing of EVM-compatible chains (Reth, BSC, Celo Network, AntChain)",
+S0792,unit_test_generation,"145 PRs from SciPy, Qiskit and Pandas",
+S0799,test_oracle_generation,"TECO dataset (500-sample subset of the evaluation set; full 3,540 for RQ1)",TECO dataset
+S0800,debugging,"22 unpublished student Python programs (c1-c8 scripts, s1-s14 notebooks)",
+S0800,debugging,BugBench,BugBench
+S0800,debugging,BugsC++,BugsC++
+S0826,unit_test_generation,hjson-cpp,
+S0826,unit_test_generation,tinyxml2,
+S0826,unit_test_generation,yaml-cpp,
+S0826,unit_test_generation,re2,
+S0826,unit_test_generation,ninja,
+S0826,unit_test_generation,leveldb,
+S0826,unit_test_generation,json.cpp,
+S0826,unit_test_generation,glomap,
+S0826,unit_test_generation,papy,
+S0826,unit_test_generation,mlx,
+S0886,program_repair,"1,000 SonarQube warnings from 106 Java projects of the Sorald dataset",Sorald dataset
+S0953,unit_test_generation,"Curated CE-Pair dataset (248 samples, 157 commits, 15 Java projects)",
+S0987,program_repair,Defects4J v1.2,Defects4J
+S0987,program_repair,Defects4J v2.0,Defects4J
+S0987,program_repair,QuixBugs (Java),QuixBugs
+S0987,program_repair,QuixBugs (Python),QuixBugs
+S1001,program_repair,Defects4J 1.2,Defects4J
+S1001,program_repair,Defects4J 2.0,Defects4J
+S1001,program_repair,QuixBugs (Java and Python),QuixBugs
+S1001,program_repair,HumanEval-Java,HumanEval
+S1028,unit_test_generation,CM (CodaMosa suite),CodaMosa benchmark
+S1028,unit_test_generation,PY,
+S1028,unit_test_generation,MT (HumanEval-derived MuTAP dataset),HumanEval
+S1036,system_test_input_generation,ReCDroid dataset,ReCDroid dataset
+S1036,system_test_input_generation,AndroR2,AndroR2
+S1036,system_test_input_generation,CrashTranslator's dataset (GitHub crash reports),
+S1047,system_test_input_generation,cuRT,
+S1047,system_test_input_generation,cuBLAS,
+S1047,system_test_input_generation,cuFFT,
+S1047,system_test_input_generation,cuRAND,
+S1047,system_test_input_generation,cuSPARSE,
+S1047,system_test_input_generation,cuSOLVER,
+S1047,system_test_input_generation,cuNPP,
+S1047,system_test_input_generation,nvJPEG,
+S1076,program_repair,GitBug-Java (186 instances),GitBug-Java
+S1076,program_repair,"SWE-Bench-Live (400 Python instances, Verified split)",SWE-bench (all variants)
+S1078,program_repair,ACPR,ACPR
+S1078,program_repair,ACPR-Hard,ACPR
+S1078,program_repair,Atcoder-ABC,
+S1078,program_repair,Atcoder-ARC,
+S1078,program_repair,Atcoder-AGC,
+S1109,program_repair,SWE-bench Lite,SWE-bench (all variants)
+S1109,program_repair,SWE-bench Lite-S,SWE-bench (all variants)
+S1109,program_repair,SWE-bench Verified,SWE-bench (all variants)
+S1152,system_test_input_generation,"Vision Java library vulnerability exploit dataset (102 CVEs, 689 migration tasks)",
+S1152,system_test_input_generation,five CVEs disclosed after model cutoff,
+S1227,unit_test_generation,HumanEval,HumanEval
+S1227,unit_test_generation,Refactory,Refactory
+S1256,program_repair,SWE-bench Lite,SWE-bench (all variants)
+S1256,program_repair,SWE-bench Verified,SWE-bench (all variants)
+S1292,system_test_input_generation,TensorFlow v2.10.0 APIs,
+S1292,system_test_input_generation,PyTorch v2.1.0 APIs,
+S1316,system_test_input_generation,BGP,
+S1316,system_test_input_generation,HTTP,
+S1316,system_test_input_generation,DNS,
+S1316,system_test_input_generation,CoAP,
+S1316,system_test_input_generation,RTSP,
+S1316,system_test_input_generation,SSH,
+S1316,system_test_input_generation,FTP,
+S1316,system_test_input_generation,cpp-httplib,
+S1316,system_test_input_generation,Lighttpd,
+S1316,system_test_input_generation,SmartDNS,
+S1316,system_test_input_generation,Dnsmasq,
+S1316,system_test_input_generation,FRR,
+S1316,system_test_input_generation,OpenBGPD,
+S1316,system_test_input_generation,GoBGP,
+S1316,system_test_input_generation,libCoAP,
+S1316,system_test_input_generation,FreeCoAP,
+S1316,system_test_input_generation,GStreamer,
+S1316,system_test_input_generation,LIVE555,
+S1316,system_test_input_generation,ProFTPD,
+S1316,system_test_input_generation,OpenSSH,
+S1343,program_repair,89 historical PEH bugs (Linux Kernel and 9 applications),
+S1343,program_repair,34 newly detected Linux Kernel error-handling bugs,
+S1345,debugging,102 real-world error events from 67 ByteDance production microservices,
+S1353,program_repair,Rust-SWE-bench,SWE-bench (all variants)
+S1354,unit_test_generation,Authors' Java focal-method benchmark from CodeSearchNet projects (100-pair evaluation set),
+S1354,unit_test_generation,zappos-json,
+S1354,unit_test_generation,tabula-java,
+S1354,unit_test_generation,jInstagram,
+S1354,unit_test_generation,HumanEval,HumanEval
+S1428,program_repair,SWE-Bench Lite,SWE-bench (all variants)
+S1428,program_repair,SWE-Bench Verified,SWE-bench (all variants)
+S1431,program_repair,Almost-Right HumanEval (ARHE),HumanEval
+S1431,program_repair,Defects4J v1.2,Defects4J
+S1431,program_repair,Defects4J v2.0,Defects4J
+S1431,program_repair,BugsInPy,BugsInPy
+S1500,debugging,Defects4J V1.2.0,Defects4J
+S1500,debugging,Defects4J V2.0.0,Defects4J
+S1500,debugging,GrowingBugs,GrowingBugs
+S1504,debugging,FaultSeeker dataset of 115 malicious transactions (extended from DAppFL and DeFiHackLabs),
+S1560,debugging,Defects4J v2.0.0,Defects4J
+S1560,debugging,Defects4J v1.0,Defects4J
+S1560,debugging,GHRB (post-cutoff subset),GHRB
+S1590,test_oracle_generation,OmniNotes,
+S1590,test_oracle_generation,Markor,
+S1590,test_oracle_generation,RetroMusic,
+S1590,test_oracle_generation,Amaze,
+S1590,test_oracle_generation,MyExpenses,
+S1590,test_oracle_generation,AntennaPod,
+S1590,test_oracle_generation,AnkiDroid,
+S1590,test_oracle_generation,OuterTune,
+S1590,test_oracle_generation,NewPipe,
+S1590,test_oracle_generation,MaterialFiles,
+S1590,test_oracle_generation,Orgzly,
+S1590,test_oracle_generation,uhabits,
+S1591,program_repair,Defects4J v1.2,Defects4J
+S1591,program_repair,Defects4J v2.0,Defects4J
+S1591,program_repair,Recent-Java,
+S1635,unit_test_generation,Defects4J v2.0.1,Defects4J
+S1635,unit_test_generation,Commons-Cli,
+S1635,unit_test_generation,Commons-Csv,
+S1635,unit_test_generation,Ecommerce-Microservice,
+S1635,unit_test_generation,Binance-Connector,
+S1639,system_test_input_generation,GCC,
+S1639,system_test_input_generation,Clang,
+S1639,system_test_input_generation,G++,
+S1639,system_test_input_generation,Clang++,
+S1639,system_test_input_generation,Z3,
+S1639,system_test_input_generation,CVC5,
+S1639,system_test_input_generation,Go toolchain,
+S1639,system_test_input_generation,javac (OpenJDK),
+S1639,system_test_input_generation,Qiskit,
+S1672,bug_analysis,ysoserial,ysoserial
+S1672,bug_analysis,Gleipner,Gleipner
+S1672,bug_analysis,"four recent JDV CVEs (Sofa-RPC, Tomcat, SnakeYaml, Dubbo)",
+S1682,unit_test_generation,"TestGeneralizer benchmark (506 focal methods, 1,637 test scenarios from 12 Java projects: itext-java, hutool, yavi, lambda, jInstagram, truth, cron-utils, imglib, ofdrw, RocketMQC, blade, spark)",
+S1689,unit_test_generation,"3,680 tests from 12 open-source Java projects (e.g., spark, ofdrw, cron-utils, itext-java, truth)",
+S1689,unit_test_generation,"LLM-Inferred intention set (2,536 tests)",
+S1689,unit_test_generation,Human-Written intention set (86 tests),
+S1732,system_test_input_generation,Themis,Themis
+S1732,system_test_input_generation,Top 1000 Google Play apps,
+S1740,debugging,SWE-bench Lite,SWE-bench (all variants)
+S1740,debugging,LocBench,LocBench
+S1740,debugging,Multi-SWE-bench Java,SWE-bench (all variants)
+S1750,system_test_input_generation,"FestiVal (58 tasks from 23 apps, including 28 MoTIF tasks)",MoTIF
+S1750,system_test_input_generation,MoTIF,MoTIF
+S1750,system_test_input_generation,12 unseen participant-written tasks,
+S1773,unit_test_generation,HumanEvalJava,HumanEval
+S1773,unit_test_generation,LeetCodeJava (Medium and Hard),LeetCode-Java
+S1811,unit_test_generation,Defects4J,Defects4J
+S1811,unit_test_generation,HieraTest-Bench,
+S1880,unit_test_generation,SWT-bench Lite,SWT-bench
+S1880,unit_test_generation,TDD-bench Verified,TDD-Bench
+S1891,system_test_input_generation,106 real-world deep learning bugs from 16 GitHub projects (authors' curated dataset),
+S1956,program_repair,LFTBench,
+S1956,program_repair,LFTBench-Py,
+S1956,program_repair,OSS-Fuzz (ARVO subset),ARVO; OSS-Fuzz
+S1971,system_test_input_generation,120 textfields from 45 apps (Samsung in-house and 3rd party from Google Play and F-Droid),
+S1971,system_test_input_generation,10 Android apps (Table V),
+S1986,system_test_input_generation,Themis,Themis
+S1986,system_test_input_generation,F-Droid apps (5 additional),
+S1989,system_test_input_generation,CraftDroid dataset,CraftDroid dataset
+S1989,system_test_input_generation,FrUITeR dataset,FrUITeR dataset
+S1989,system_test_input_generation,"new Music Player app category (35 Android apps, 280 migration tasks)",
+S2017,debugging,SWE-bench Lite,SWE-bench (all variants)
+S2017,debugging,SWE-bench Verified,SWE-bench (all variants)
+S2017,debugging,SWE-bench Lite mini (50 instances),SWE-bench (all variants)
+S2017,debugging,SWE-bench Verified mini (50 instances),SWE-bench (all variants)
+S2019,unit_test_generation,SWT-bench-lite,SWT-bench
+S2019,unit_test_generation,SWE-bench Verified subset of SWT-bench-lite,SWE-bench (all variants); SWT-bench
+S2056,unit_test_generation,"HITS dataset (10 open-source Java projects, 110 tasks)",HITS dataset
+S2059,program_repair,DS-1000,DS-1000
+S2077,system_test_input_generation,as-new,
+S2077,system_test_input_generation,bc,
+S2077,system_test_input_generation,calc,
+S2077,system_test_input_generation,cflow,
+S2077,system_test_input_generation,cJSON,
+S2077,system_test_input_generation,curl,
+S2077,system_test_input_generation,cxxfilt,
+S2077,system_test_input_generation,infotocap,
+S2077,system_test_input_generation,jq,
+S2077,system_test_input_generation,libxml2,
+S2077,system_test_input_generation,Lua,
+S2077,system_test_input_generation,MuJS,
+S2077,system_test_input_generation,php,
+S2077,system_test_input_generation,SQLite3,
+S2077,system_test_input_generation,Jenkins (AIxCC 2024),
+S2077,system_test_input_generation,MAGMA (text-input subjects),MAGMA
+S2077,system_test_input_generation,UNIFUZZ (text-input subjects),UNIFUZZ
+S2077,system_test_input_generation,FUZZBENCH (text-input subjects),FuzzBench
+S2159,debugging,Defects4J (812 bugs),Defects4J
+S2159,debugging,Defects4J-V2.0 cross-project subset,Defects4J
+S2204,program_repair,SWE-bench Verified,SWE-bench (all variants)
+S2214,system_test_input_generation,"12 REST services (Features-Service, Genome-Nexus, Language-Tool, Market, Person-Controller, Project-Tracking-System, REST-Countries, User-Management, YouTube, FDIC, Ohsome, Spotify)",
+S2214,system_test_input_generation,RESTGPT rule dataset,
+S2230,unit_test_generation,Defects4J,Defects4J
+S2263,program_repair,"Annotator benchmark: conductor, eureka, glide, gson, jadx, libgdx, litiengine, mockito, retrofit, spring-boot, wala-util, zuul",
+S2317,system_test_input_generation,14 Google Play apps (author-constructed dataset),
+S2350,system_test_input_generation,GCC,
+S2350,system_test_input_generation,G++,
+S2350,system_test_input_generation,CVC5,
+S2350,system_test_input_generation,Go,
+S2350,system_test_input_generation,Qiskit,
+S2350,system_test_input_generation,Clang,
+S2359,system_test_input_generation,Magma,MAGMA
+S2359,system_test_input_generation,VLC,
+S2359,system_test_input_generation,libming,
+S2359,system_test_input_generation,libarchive,
+S2359,system_test_input_generation,tcpreplay,
+S2359,system_test_input_generation,"Python/Go/Java vulnerabilities (idna, Pillow CVE-2020-35655, hjson, gojay, CVE-2021-44228, CVE-2021-37714)",
+S2364,system_test_input_generation,FrUITeR dataset,FrUITeR dataset
+S2364,system_test_input_generation,Lin dataset,CraftDroid dataset
+S2364,system_test_input_generation,TEM dataset,TEMdroid dataset
+S2375,debugging,Benchmark-C,Benchmark-C (program reduction)
+S2375,debugging,Benchmark-Rust,Benchmark-Rust (program reduction)
+S2375,debugging,Benchmark-JS,
+S2379,unit_test_generation,Black,
+S2379,unit_test_generation,Tornado,
+S2379,unit_test_generation,Commons-CLI,
+S2379,unit_test_generation,Commons-CSV,
+S2379,unit_test_generation,Cobra,
+S2379,unit_test_generation,Logrus,
+S2393,system_test_input_generation,Themis benchmark (20 apps),Themis
+S2393,system_test_input_generation,73 Google Play apps (effectiveness dataset),
+S2393,system_test_input_generation,223 Google Play apps (usefulness evaluation),
+S2400,debugging,"Malo dataset of 68 real-world DApp faults (Blocksec, DeFiHackLabs)",
+S2400,debugging,5 new DApp incidents after October 2023,
+S2440,program_repair,Defects4J (333 single-hunk bugs; 172 multi-location bugs),Defects4J
+S2440,program_repair,HumanEval-Java,HumanEval
+S2440,program_repair,TransformedD4J,TransformedD4J
+S2479,system_test_input_generation,"EMB (EvoMaster Benchmark, 16 REST API services)",EvoMaster benchmark (EMB)
+S2482,system_test_input_generation,TensorFlow,
+S2482,system_test_input_generation,PyTorch,
+S2482,system_test_input_generation,OneFlow,
+S2482,system_test_input_generation,Jittor,
+S2482,system_test_input_generation,280 sampled GitHub issues (buggy API recognition),
+S2482,system_test_input_generation,20 shared-bug synthesis benchmark,
+S2482,system_test_input_generation,400 randomly selected APIs per framework,
+S2496,unit_test_generation,QuixBugs,QuixBugs
+S2496,unit_test_generation,C4DET (Codeforces / Code4Bench),
+S2509,test_oracle_generation,"Human-written MTC dataset (1,471 MTCs from 213 Java projects; 100 sampled tasks)",
+S2509,test_oracle_generation,50 real-world MTC-revealed Java bugs,
+S2509,test_oracle_generation,After cut-off dataset,
+S2551,unit_test_generation,HumanEval-Java,HumanEval
+S2551,unit_test_generation,LeetCode-Java,LeetCode-Java
+S2559,system_test_input_generation,TestRefineGen set (256 textual descriptions of web-form test data),
+S2561,unit_test_generation,"Defects4J (10 projects, 2,258 focal methods)",Defects4J
+S2575,program_repair,DexFix dataset (ID flaky tests),
+S2575,program_repair,ODRepair dataset (OD-Victim flaky tests),
+S2575,program_repair,IDoFT,IDoFT
+S2582,program_repair,172 newly detected NIO tests from 20 popular GitHub Maven projects,
+S2582,program_repair,"IDoFT (149 fixed NIO tests, used for temperature tuning)",IDoFT
+S2594,system_test_input_generation,MLIR compiler infrastructure (LLVM revisions bab01ae and bec839),
+S2631,system_test_input_generation,ReCDroid's dataset,ReCDroid dataset
+S2631,system_test_input_generation,AndroR2,AndroR2
+S2631,system_test_input_generation,ScopeDroid's dataset,ScopeDroid dataset
+S2631,system_test_input_generation,Google Play user comments (25 crash overviews),
+S2666,system_test_input_generation,XSTest,
+S2666,system_test_input_generation,OR-Bench,
+S2666,system_test_input_generation,COR,
+S2666,system_test_input_generation,"user-study query-response pairs (2,500)",
+S2677,unit_test_generation,"15 open-source Rust crates (base64, bytes, fastrand, hashbrown, http, indexmap, once_cell, qsv, quote, rand, regex, ryu, serde, serde_json, strsim-rs)",
+S2721,system_test_input_generation,SecBench.js,SecBench.js
+S2721,system_test_input_generation,126 recent GitHub Security Advisories vulnerabilities,
+S2773,system_test_input_generation,"CyberGym (ARVO instances, 203 vulnerabilities)",ARVO; CyberGym
+S2814,program_repair,QuixBugs,QuixBugs
+S2814,program_repair,Defects4J,Defects4J
+S2814,program_repair,ConDefects,ConDefects
+S2814,program_repair,SWE-Bench-Lite,SWE-bench (all variants)
+S2814,program_repair,VUL4J,VUL4J
+S2863,system_test_input_generation,OpenSSL v3.5.0,
+S2863,system_test_input_generation,GnuTLS v3.8.9,
+S2863,system_test_input_generation,wolfSSL v5.7.6,
+S2863,system_test_input_generation,Go crypto/x509 v1.24.2,
+S2863,system_test_input_generation,Python Cryptography v44.0.2,
+S2863,system_test_input_generation,"3,523 GitHub issues",
+S2863,system_test_input_generation,"1,207 real-world CRLs",
+S2869,unit_test_generation,"ReAccept PT co-evolution dataset (537 Java projects, 23403 samples)",
+S2869,unit_test_generation,"Dynamic evaluation subset of six Maven projects (springside4, commons-lang, dddlib, datumbox, openmrs-core, basex)",
+S2900,bug_analysis,"24-webpage primary dataset (Semrush popular pages, SALAD/ReDeCheck/KAFE artifact pages, newly registered pages)",
+S2900,bug_analysis,36-webpage extended dataset,
+S2900,bug_analysis,SALAD dataset subset,
+S2902,unit_test_generation,BugsInPy,BugsInPy
+S2902,unit_test_generation,TypeBugs,TypeBugs
+S2902,unit_test_generation,kivy,
+S2902,unit_test_generation,langchain,
+S2902,unit_test_generation,luigi,
+S2902,unit_test_generation,pwntools,
+S2902,unit_test_generation,scipy,
+S2902,unit_test_generation,scrapy,
+S2920,program_repair,Defects4J V1.2,Defects4J
+S2920,program_repair,Defects4J V2.0,Defects4J
+S2920,program_repair,RWB V1.0,RWB
+S2920,program_repair,RWB V2.0,RWB
+S2923,program_repair,Defects4J v1.2,Defects4J
+S2923,program_repair,Defects4J v2.0,Defects4J
+S2923,program_repair,GitBug-Java (100 sampled bugs),GitBug-Java
+S3021,bug_analysis,"FRRouting (Babel, BFD, NHRP, RIPng)",
+S3021,bug_analysis,"lwIP (DHCP, IGMP)",
+S3021,bug_analysis,"LTL-Fuzzer zero-day bugs (TinyDTLS, Contiki-Telnet)",
+S3021,bug_analysis,aws-c-http,
+S3021,bug_analysis,Linux TCP/IP stack,
+S3025,system_test_input_generation,Firefox PRs,
+S3025,system_test_input_generation,Zettlr PRs,
+S3025,system_test_input_generation,JabRef PRs,
+S3025,system_test_input_generation,Godot PRs,
+S3063,system_test_input_generation,DayTrader,
+S3063,system_test_input_generation,Spring PetClinic,
+S3063,system_test_input_generation,JPetStore,
+S3063,system_test_input_generation,Restcountries,
+S3063,system_test_input_generation,Feature-service,
+S3063,system_test_input_generation,Genome-Nexus,
+S3063,system_test_input_generation,LanguageTool,
+S3063,system_test_input_generation,App-X (proprietary),
+S3063,system_test_input_generation,EvoMaster benchmark,EvoMaster benchmark (EMB)
+S3065,unit_test_generation,"Sakura evaluation dataset (1,464 NL test descriptions paired with 488 developer-written tests from 20 Apache Commons projects)",
+S3082,system_test_input_generation,99 scenario tasks on 92 Android apps across 10 testing scenarios (authors' benchmark),
+S3123,system_test_input_generation,Odin and RegDroid datasets (baseline dataset),Odin dataset; RegDroid dataset
+S3123,system_test_input_generation,GitHub dataset,
+S3123,system_test_input_generation,Bug injection dataset,
+S3123,system_test_input_generation,187 Google Play apps,
+S3123,system_test_input_generation,iOS and Harmony OS open-source apps,
+S3124,program_repair,SWE-bench M (test split),SWE-bench (all variants)
+S3124,program_repair,SWE-bench M (dev split),SWE-bench (all variants)
+S3135,system_test_input_generation,FormNexus web form dataset (30 forms from Mind2Web websites and open-source applications),
+S3157,program_repair,SWE-Bench-Lite,SWE-bench (all variants)
+S3157,program_repair,SWE-Bench-Verified,SWE-bench (all variants)
+S3157,program_repair,VUL4J,VUL4J
+S3157,program_repair,VJBench,VJBench
+S3197,debugging,Defects4J-V1.2.0,Defects4J
+S3197,debugging,Defects4J-V2.0.0,Defects4J
+S3236,system_test_input_generation,ProxyAI,
+S3236,system_test_input_generation,Open Interpreter,
+S3236,system_test_input_generation,Self-Operating Computer,
+S3236,system_test_input_generation,TaxyAI,
+S3236,system_test_input_generation,Autonomous HR Chatbot,
+S3236,system_test_input_generation,"features mined from OSWorld, AgentSafetyBench, ToolEmu, AGrail, WorkBench",
+S3237,program_repair,SWE-bench,SWE-bench (all variants)
+S3237,program_repair,SWE-bench Lite,SWE-bench (all variants)
+S3237,program_repair,DARPA AIxCC exemplar challenge (case study),
+S3260,system_test_input_generation,"Themis benchmark (20 apps, 34 bugs)",Themis
+S3260,system_test_input_generation,"F-Droid dataset (51 apps, 87 crash bugs)",
+S3260,system_test_input_generation,Google Play apps (237 apps),
+S3260,system_test_input_generation,iOS and HarmonyOS apps (small-scale),
+S3329,program_repair,SWE-bench Verified,SWE-bench (all variants)
+S3329,program_repair,SWE-bench Lite,SWE-bench (all variants)
+S3329,program_repair,SWE-Bench-Verified-S (75-instance subset),SWE-bench (all variants)
+S3383,system_test_input_generation,"POP3 (RFC 1939, Dovecot)",
+S3383,system_test_input_generation,"SMTP (RFC 5321, Postfix)",
+S3383,system_test_input_generation,"IMAP (RFC 3501, Dovecot)",
+S3383,system_test_input_generation,"FTP (RFC 959, vsFTPd)",
+S3383,system_test_input_generation,"ManageSieve (RFC 5804, Pigeonhole)",
+S3420,program_repair,Defects4J v1.2,Defects4J
+S3420,program_repair,Defects4J v2.0,Defects4J
+S3420,program_repair,DebugBench,DebugBench
+S3444,unit_test_generation,Defects4J,Defects4J
+S3444,unit_test_generation,GrowingBugs,GrowingBugs
+S3444,unit_test_generation,SWE-Rebench,SWE-bench (all variants)
+S3450,unit_test_generation,Defects4J,Defects4J
+S3450,unit_test_generation,HITS dataset,HITS dataset
+S3450,unit_test_generation,Huawei internal dataset,
+S3465,system_test_input_generation,Z3,
+S3465,system_test_input_generation,cvc5,
+S3465,system_test_input_generation,Bitwuzla,
+S3465,system_test_input_generation,"3,877 historical bug-triggering formulas from Z3, cvc5, Bitwuzla, Yices2 and OpenSMT issue trackers",
+S3472,bug_analysis,keras,
+S3472,bug_analysis,marshmallow,
+S3472,bug_analysis,pandas,
+S3472,bug_analysis,scipy,
+S3472,bug_analysis,Testora labeled dataset of 164 behavioral differences,
+S3474,unit_test_generation,CODAMOSA benchmark (486 Python modules from 27 projects),CodaMosa benchmark
+S3475,unit_test_generation,CodaMosa suite (35 Python projects),CodaMosa benchmark
+S3535,system_test_input_generation,"Inter-app functionality benchmark (100 functionalities, 63 apps)",
+S3535,system_test_input_generation,180 Google Play apps (bug detection),
+S3536,program_repair,SWE-bench Verified,SWE-bench (all variants)
+S3537,program_repair,Defects4J 1.2,Defects4J
+S3537,program_repair,Defects4J 2.0,Defects4J
+S3537,program_repair,QuixBugs-Java,QuixBugs
+S3537,program_repair,QuixBugs-Python,QuixBugs
+S3537,program_repair,RWB V1.0,RWB
+S3537,program_repair,RWB V2.0,RWB
+S3541,program_repair,SAVER dataset,SAVER dataset
+S3541,program_repair,TLR 14-project real-world C memory error benchmark (49 errors),
+S3590,debugging,Ye et al. dataset,Ye et al. dataset
+S3590,debugging,GHRB (GitHub Recent Bugs),GHRB
+S3590,debugging,SWE-bench Lite,SWE-bench (all variants)
+S3604,test_oracle_generation,Data Centres,
+S3604,test_oracle_generation,Autonomous Vehicles,
+S3604,test_oracle_generation,Automata,
+S3604,test_oracle_generation,Words,
+S3649,system_test_input_generation,AFLGo dataset,AFLGo dataset
+S3649,system_test_input_generation,SelectFuzz dataset,SelectFuzz dataset
+S3649,system_test_input_generation,DAFL dataset,DAFL dataset
+S3649,system_test_input_generation,OCTOPOCs subjects,
+S3649,system_test_input_generation,15 CVE vulnerabilities with 76 related binaries,
+S3649,system_test_input_generation,"Linux distributions (Debian, Ubuntu, Fedora, CentOS, OpenWrt)",
+S3692,unit_test_generation,"Four industrial ByteDance Go projects (Subject-1 to Subject-4, 60 business logic bugs)",
+S3692,unit_test_generation,6 production repositories (deployment),
+S3696,system_test_input_generation,"Web UI test repair dataset of Imtiaz et al. (AddressBook, Claroline, Collabtive, MantisBT, MRBS; 62 tests, 139 broken statements)",Imtiaz et al. web test repair dataset
+S3728,unit_test_generation,UPDATES4J (195 samples from 7 Java projects),
+S3728,unit_test_generation,TARBENCH,TARBENCH
+S3737,program_repair,xCodeEval,xCodeEval
+S3737,program_repair,Defects4J v1.2,Defects4J
+S3737,program_repair,Defects4J v2.0,Defects4J
+S3737,program_repair,SWE-bench Lite,SWE-bench (all variants)
+S3738,system_test_input_generation,436 sampled LFSC targets,
+S3738,system_test_input_generation,Linux LTS kernel 6.6,
+S3738,system_test_input_generation,Linux LTS kernel 5.15,
+S3738,system_test_input_generation,Linux LTS kernel 4.19,
+S3774,test_oracle_generation,BABEL,
+S3774,test_oracle_generation,BFD,
+S3774,test_oracle_generation,BGP-4,
+S3774,test_oracle_generation,IPv4,
+S3774,test_oracle_generation,ICMPv4,
+S3774,test_oracle_generation,ICMPv6,
+S3774,test_oracle_generation,IPv6,
+S3774,test_oracle_generation,DHCP,
+S3774,test_oracle_generation,TCP,
+S3774,test_oracle_generation,FRR,
+S3774,test_oracle_generation,Go Networking,
+S3774,test_oracle_generation,Impacket,
+S3788,system_test_input_generation,"OSBC (Certora SVB, SmartBugs-curated, smartcontract-benchmark, SolSEE, JiuZhou, SolTG, ESBMC-Solidity)",SmartBugs-curated
+S3788,system_test_input_generation,REAL (30 on-chain contracts),
+S3788,system_test_input_generation,Advscanner reentrancy dataset,
+S3803,system_test_input_generation,Themis crash bug dataset,Themis
+S3803,system_test_input_generation,GIFdroid evaluation suite,GIFdroid suite
+S3803,system_test_input_generation,V2S GUI recordings,V2S recordings
+S3803,system_test_input_generation,6 additional recent GitHub GUI recordings,
+S3817,system_test_input_generation,AndroTest (59 apps),AndroTest
+S3817,system_test_input_generation,80 Google Play apps,
+S3817,system_test_input_generation,Themis,Themis
+S3821,system_test_input_generation,"UQ-AAS21 (Complex-Small-Dataset, 50 Alexa skills)",UQ-AAS21
+S3821,system_test_input_generation,"UQ-AAS21 (Stable-Large-Dataset, 4,000 Alexa skills)",UQ-AAS21
+S3824,system_test_input_generation,Java vulnerability dataset (filtered and extended from Kang et al. TRANSFER dataset),
+S3824,system_test_input_generation,Python vulnerability dataset (manually collected),
+S3824,system_test_input_generation,Negative dataset of non-reachable downstream applications,
+S3857,test_oracle_generation,"WebTestPilot benchmark: BookStack, Indico, InvoiceNinja, PrestaShop with 100 test requirements and injected bugs",
+S3857,test_oracle_generation,23 replicated real-world GitHub bugs,
+S3857,test_oracle_generation,China Mobile no-code platform case study,
+S3861,program_repair,VulnLoc+,VulnLoc
+S3861,program_repair,ARVO (5 Java vulnerabilities),ARVO
+S3931,system_test_input_generation,PyTorch v1.12 APIs,
+S3931,system_test_input_generation,TensorFlow v2.10 APIs,
+S3931,system_test_input_generation,PyTorch v2.2.1,
+S3931,system_test_input_generation,TensorFlow v2.15,

@@ -1,0 +1,16 @@
+﻿item,agreement,kappa,units,source
+Task,93.5%,0.913,,09_coding/compare_coding.py output
+Component presence,93.2%,0.794,"1,078 units",09_coding/compare_coding.py output
+Implementation categories,89.0%,0.778,"4,095 units",09_coding/compare_coding.py output
+Relations,80.4%,0.576,"1,468 units",09_coding/compare_coding.py output
+Metric classes,91.7%,0.834,,09_coding/compare_coding.py output
+Verification classes,89.5%,0.789,,09_coding/compare_coding.py output
+Repeated runs,79.9%,0.667,,09_coding/compare_coding.py output
+Uncertainty reported,98.1%,0.954,,09_coding/compare_coding.py output
+Cost reported,96.8%,0.879,,09_coding/compare_coding.py output
+Artefact availability,96.1%,0.831,,09_coding/compare_coding.py output
+mode-2 verification: HC,71.7%,,886 items,09_coding/verify_stats_full.txt
+mode-2 verification: EC,91.4%,,"7,463 items",09_coding/verify_stats_full.txt
+mode-2 verification: claims,89.9%,,"6,087 items",09_coding/verify_stats_full.txt
+mode-2 verification: matched comparisons,84.0%,,982 items,09_coding/verify_stats_full.txt
+mode-2 verification: overall,89.2%,,"15,418 items",09_coding/verify_stats_full.txt

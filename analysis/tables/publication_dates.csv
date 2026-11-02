@@ -1,0 +1,155 @@
+﻿record_id,system_name,task,date,year,month,half_year,date_source
+S0096,AutoFL,debugging,2024-07-12,2024,7,2024 H2,DOI first public date of the formal record
+S0141,A11YRepair,program_repair,2026-06-20,2026,6,2026 H1,arXiv first submission (formal record has no dated DOI)
+S0155,ACFix,program_repair,2025-07-22,2025,7,2025 H2,DOI first public date of the formal record
+S0156,ACME,system_test_input_generation,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S0182,TELPA,unit_test_generation,2025-07-14,2025,7,2025 H2,DOI first public date of the formal record
+S0190,AdvSCanner,system_test_input_generation,2024-10-18,2024,10,2024 H2,DOI first public date of the formal record
+S0201,EnAgent,program_repair,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S0229,Engineering Agent,program_repair,2026-05-26,2026,5,2026 H1,DOI first public date of the formal record
+S0250,BugCraft,system_test_input_generation,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S0352,ConFixAgent,program_repair,2026-04-07,2026,4,2026 H1,arXiv first submission (formal record has no dated DOI)
+S0405,Arash,debugging,2026-05-04,2026,5,2026 H1,DOI first public date of the formal record
+S0486,AutoCodeRover,program_repair,2024-09-11,2024,9,2024 H2,DOI first public date of the formal record
+S0514,BLAST,unit_test_generation,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S0518,KATRER,unit_test_generation,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S0527,ChatRepair,program_repair,2024-09-11,2024,9,2024 H2,DOI first public date of the formal record
+S0532,AuthFix,program_repair,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S0534,TEERepair,program_repair,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S0666,MemoDroid,system_test_input_generation,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S0671,BICSleuth,debugging,2025-11-05,2025,11,2025 H2,DOI first public date of the formal record
+S0682,BLAgent,debugging,2026-05-18,2026,5,2026 H1,arXiv first submission (formal record has no dated DOI)
+S0717,BugRepro,system_test_input_generation,2025-05-20,2025,5,2025 H1,arXiv first submission (formal record has no dated DOI)
+S0763,TestPrune,program_repair,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S0771,Cascade,bug_analysis,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S0788,ChainDelta,system_test_input_generation,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S0792,ChaCo (Change And Cover),unit_test_generation,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S0799,ChatAssert,test_oracle_generation,2024-12-16,2024,12,2024 H2,DOI first public date of the formal record
+S0800,ChatDBG,debugging,2025-06-19,2025,6,2025 H1,DOI first public date of the formal record
+S0826,CITYWALK,unit_test_generation,2025-08-26,2025,8,2025 H2,DOI first public date of the formal record
+S0886,CodeCureAgent,program_repair,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S0953,CommitUp,unit_test_generation,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S0987,CodeCorrector,program_repair,2025-04-18,2025,4,2025 H1,DOI first public date of the formal record
+S1001,ContrastRepair,program_repair,2025-03-04,2025,3,2025 H1,DOI first public date of the formal record
+S1028,CoverUp,unit_test_generation,2025-06-19,2025,6,2025 H1,DOI first public date of the formal record
+S1036,CrashTranslator,system_test_input_generation,2024-02-06,2024,2,2024 H1,DOI first public date of the formal record
+S1047,CuFuzz,system_test_input_generation,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S1076,Debug2Fix,program_repair,2026-02-20,2026,2,2026 H1,arXiv first submission (formal record has no dated DOI)
+S1078,DeepK,program_repair,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S1109,Agentless,program_repair,2025-06-19,2025,6,2025 H1,DOI first public date of the formal record
+S1152,Diffploit,system_test_input_generation,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S1227,MuTAP,unit_test_generation,2024-04-06,2024,4,2024 H1,DOI first public date of the formal record
+S1256,"FramePilot (agent equipped with Agent-centric Debugging Interface, ADI)",program_repair,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S1292,DLLens,system_test_input_generation,2025-05-14,2025,5,2025 H1,DOI first public date of the formal record
+S1316,PSG,system_test_input_generation,2025-08-04,2025,8,2025 H2,DOI first public date of the formal record
+S1343,EH-Fixer,program_repair,2025-06-19,2025,6,2025 H1,DOI first public date of the formal record
+S1345,ErrorPrism,debugging,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S1353,RustForger,program_repair,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S1354,ChatTester,unit_test_generation,2024-07-12,2024,7,2024 H2,DOI first public date of the formal record
+S1428,ExpeRepair,program_repair,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S1431,AutoSD,program_repair,2024-12-18,2024,12,2024 H2,DOI first public date of the formal record
+S1500,CosFL,debugging,2025-08-26,2025,8,2025 H2,DOI first public date of the formal record
+S1504,FaultSeeker,debugging,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S1560,FlexFL,debugging,2025-03-19,2025,3,2025 H1,DOI first public date of the formal record
+S1590,PropGen,test_oracle_generation,2026-04-15,2026,4,2026 H1,arXiv first submission (formal record has no dated DOI)
+S1591,TraceRepair,program_repair,2026-04-03,2026,4,2026 H1,arXiv first submission (formal record has no dated DOI)
+S1635,LegaTest,unit_test_generation,2026-06-18,2026,6,2026 H1,DOI first public date of the formal record
+S1639,Fuzz4All,system_test_input_generation,2024-04-12,2024,4,2024 H1,DOI first public date of the formal record
+S1672,GadgetHunter,bug_analysis,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S1682,TestGeneralizer,unit_test_generation,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S1689,IntentionTest,unit_test_generation,2025-07-28,2025,7,2025 H2,arXiv first submission (formal record has no dated DOI)
+S1732,GPT-Monkey,system_test_input_generation,2026-01-01,2026,1,2026 H1,DOI first public date of the formal record
+S1740,GraphLocator,debugging,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S1750,Guardian,system_test_input_generation,2024-09-11,2024,9,2024 H2,DOI first public date of the formal record
+S1773,CANDOR,unit_test_generation,2026-03-25,2026,3,2026 H1,DOI first public date of the formal record
+S1811,HieraTest,unit_test_generation,2026-03-17,2026,3,2026 H1,DOI first public date of the formal record
+S1880,iCoRe (with basic BRT generator),unit_test_generation,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S1891,RepGen,system_test_input_generation,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S1956,ReduceFix,program_repair,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S1971,DroidFiller (integrated with STEM),system_test_input_generation,2025-03-31,2025,3,2025 H1,DOI first public date of the formal record
+S1986,DroidAgent,system_test_input_generation,2024-05-27,2024,5,2024 H1,DOI first public date of the formal record
+S1989,ITeM,system_test_input_generation,2025-06-22,2025,6,2025 H1,DOI first public date of the formal record
+S2017,CoSIL,debugging,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S2019,Issue2Test,unit_test_generation,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S2056,KTester,unit_test_generation,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S2059,DSrepair,program_repair,2025-04-26,2025,4,2025 H1,DOI first public date of the formal record
+S2077,HyLLfuzz,system_test_input_generation,2026-05-18,2026,5,2026 H1,DOI first public date of the formal record
+S2159,PingFL,debugging,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S2204,Lingxi,program_repair,2025-10-13,2025,10,2025 H2,arXiv first submission (formal record has no dated DOI)
+S2214,LlamaRestTest,system_test_input_generation,2025-06-19,2025,6,2025 H1,DOI first public date of the formal record
+S2230,Panta,unit_test_generation,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S2263,NullRepair,program_repair,2025-07-28,2025,7,2025 H2,arXiv first submission (formal record has no dated DOI)
+S2317,LLMDroid,system_test_input_generation,2025-06-19,2025,6,2025 H1,DOI first public date of the formal record
+S2350,LMFuzz,system_test_input_generation,2025-10-28,2025,10,2025 H2,DOI first public date of the formal record
+S2359,Locus,system_test_input_generation,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S2364,LogiDroid,system_test_input_generation,2026-02-27,2026,2,2026 H1,arXiv first submission (formal record has no dated DOI)
+S2375,LPR,debugging,2024-09-11,2024,9,2024 H2,DOI first public date of the formal record
+S2379,LspRag,unit_test_generation,2025-10-25,2025,10,2025 H2,arXiv first submission (formal record has no dated DOI)
+S2393,GPTDroid,system_test_input_generation,2024-04-12,2024,4,2024 H1,DOI first public date of the formal record
+S2400,Malo,debugging,2025-06-13,2025,6,2025 H1,DOI first public date of the formal record
+S2440,FLAMES,program_repair,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S2479,MioHint,system_test_input_generation,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S2482,MirrorFuzz,system_test_input_generation,2025-10-10,2025,10,2025 H2,DOI first public date of the formal record
+S2496,Mokav,unit_test_generation,2025-07-19,2025,7,2025 H2,DOI first public date of the formal record
+S2509,MR-Coupler,test_oracle_generation,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S2551,MutGen,unit_test_generation,2026-04-10,2026,4,2026 H1,DOI first public date of the formal record
+S2559,TestRefineGen,system_test_input_generation,2024-03-12,2024,3,2024 H1,DOI first public date of the formal record
+S2561,JUnitGenie,unit_test_generation,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S2575,FlakyDoctor,program_repair,2024-09-11,2024,9,2024 H2,DOI first public date of the formal record
+S2582,NIODebugger,program_repair,2025-04-26,2025,4,2025 H1,DOI first public date of the formal record
+S2594,NÜWA,system_test_input_generation,2025-09-07,2025,9,2025 H2,DOI first public date of the formal record
+S2631,ReActDroid,system_test_input_generation,2025-02-03,2025,2,2025 H1,DOI first public date of the formal record
+S2666,ORFuzz,system_test_input_generation,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S2677,PALM,unit_test_generation,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S2721,PoCGen,system_test_input_generation,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S2773,PAGENT,system_test_input_generation,2026-04-08,2026,4,2026 H1,arXiv first submission (formal record has no dated DOI)
+S2814,PSearch,program_repair,2025-07-02,2025,7,2025 H2,arXiv first submission (formal record has no dated DOI)
+S2863,RAT (Retrieval-Augmented Testing),system_test_input_generation,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S2869,ReAccept,unit_test_generation,2025-06-22,2025,6,2025 H1,DOI first public date of the formal record
+S2900,ReFLAIR,bug_analysis,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S2902,RTED,unit_test_generation,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S2920,ReinFix,program_repair,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S2923,RepairAgent,program_repair,2025-04-26,2025,4,2025 H1,DOI first public date of the formal record
+S3021,RFCAudit,bug_analysis,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S3025,RippleGUItester,system_test_input_generation,2026-03-03,2026,3,2026 H1,arXiv first submission (formal record has no dated DOI)
+S3063,SAINT,system_test_input_generation,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S3065,Sakura,unit_test_generation,2026-05-30,2026,5,2026 H1,arXiv first submission (formal record has no dated DOI)
+S3082,ScenGen,system_test_input_generation,2026-06-09,2026,6,2026 H1,DOI first public date of the formal record
+S3123,Trident,system_test_input_generation,2025-09-26,2025,9,2025 H2,DOI first public date of the formal record
+S3124,GUIRepair,program_repair,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S3135,FormNexus,system_test_input_generation,2024-09-11,2024,9,2024 H2,DOI first public date of the formal record
+S3157,SGAgent,program_repair,2026-05-26,2026,5,2026 H1,DOI first public date of the formal record
+S3197,SoapFL,debugging,2025-02-18,2025,2,2025 H1,DOI first public date of the formal record
+S3236,SpecOps,system_test_input_generation,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S3237,SpecRover,program_repair,2025-04-26,2025,4,2025 H1,DOI first public date of the formal record
+S3260,BugHunter,system_test_input_generation,2025-06-19,2025,6,2025 H1,DOI first public date of the formal record
+S3329,SWE-Debate,program_repair,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S3383,AutoSpec,system_test_input_generation,2026-05-18,2026,5,2026 H1,DOI first public date of the formal record
+S3420,TRACE,program_repair,2026-01-28,2026,1,2026 H1,DOI first public date of the formal record
+S3444,AdverTest,unit_test_generation,2026-02-08,2026,2,2026 H1,arXiv first submission (formal record has no dated DOI)
+S3450,TestART,unit_test_generation,2024-08-06,2024,8,2024 H2,arXiv first submission (formal record has no dated DOI)
+S3465,MadFuzz,system_test_input_generation,2026-02-09,2026,2,2026 H1,DOI first public date of the formal record
+S3472,Testora,bug_analysis,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S3474,TestTailor,unit_test_generation,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S3475,TestWeaver,unit_test_generation,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S3535,InterDroid,system_test_input_generation,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S3536,SWE-Reasoner 32B with SWE-SynInfer+ and unified TTC (Dev-Search),program_repair,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S3537,ThinkRepair,program_repair,2024-09-11,2024,9,2024 H2,DOI first public date of the formal record
+S3541,TLR,program_repair,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S3590,GenLoc,debugging,2025-08-01,2025,8,2025 H2,arXiv first submission (formal record has no dated DOI)
+S3604,LLM-based MT assistance architecture integrated in Gotten,test_oracle_generation,2026-04-13,2026,4,2026 H1,DOI first public date of the formal record
+S3649,TransferFuzz-Pro,system_test_input_generation,2025-07-03,2025,7,2025 H2,DOI first public date of the formal record
+S3692,SeGa,unit_test_generation,2026-04-26,2026,4,2026 H1,arXiv first submission (formal record has no dated DOI)
+S3696,"Traditional matcher + ChatGPT Web UI test repair with explanation validator and self-correction (e.g., EDIT DIS+ChatGPT)",system_test_input_generation,2025-03-31,2025,3,2025 H1,DOI first public date of the formal record
+S3728,TestUpdater,unit_test_generation,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S3737,LANTERN,program_repair,2026-04-12,2026,4,2026 H1,DOI first public date of the formal record
+S3738,SyzGPT,system_test_input_generation,2025-06-22,2025,6,2025 H1,DOI first public date of the formal record
+S3774,ParCleanse,test_oracle_generation,2025-06-22,2025,6,2025 H1,DOI first public date of the formal record
+S3788,VeriExploit,system_test_input_generation,2025-11-16,2025,11,2025 H2,DOI first public date of the formal record
+S3803,ViBR,system_test_input_generation,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S3817,VLM-Fuzz,system_test_input_generation,2026-02-13,2026,2,2026 H1,DOI first public date of the formal record
+S3821,Elevate,system_test_input_generation,2025-10-10,2025,10,2025 H2,DOI first public date of the formal record
+S3824,VulFinder,system_test_input_generation,2026-01-01,2026,1,2026 H1,DOI first public date of the formal record
+S3857,WebTestPilot,test_oracle_generation,2026-06-30,2026,6,2026 H1,DOI first public date of the formal record
+S3861,LoopRepair,program_repair,2025-12-23,2025,12,2025 H2,arXiv first submission (formal record has no dated DOI)
+S3931,DFUZZ,system_test_input_generation,2025-04-26,2025,4,2025 H1,DOI first public date of the formal record

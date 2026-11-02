@@ -1,0 +1,173 @@
+﻿need,record_id,system_name,task,signature
+ETCLV example (replaces GT-Repair),S0141,A11YRepair,program_repair,ETCLV
+ETCLV example (replaces GT-Repair),S0190,AdvSCanner,system_test_input_generation,ETCLV
+ETCLV example (replaces GT-Repair),S0201,EnAgent,program_repair,ETCLV
+ETCLV example (replaces GT-Repair),S0352,ConFixAgent,program_repair,ETCLV
+ETCLV example (replaces GT-Repair),S0518,KATRER,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S0534,TEERepair,program_repair,ETCLV
+ETCLV example (replaces GT-Repair),S0763,TestPrune,program_repair,ETCLV
+ETCLV example (replaces GT-Repair),S0771,Cascade,bug_analysis,ETCLV
+ETCLV example (replaces GT-Repair),S0826,CITYWALK,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S0953,CommitUp,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S0987,CodeCorrector,program_repair,ETCLV
+ETCLV example (replaces GT-Repair),S1078,DeepK,program_repair,ETCLV
+ETCLV example (replaces GT-Repair),S1109,Agentless,program_repair,ETCLV
+ETCLV example (replaces GT-Repair),S1227,MuTAP,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S1292,DLLens,system_test_input_generation,ETCLV
+ETCLV example (replaces GT-Repair),S1354,ChatTester,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S1635,LegaTest,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S1682,TestGeneralizer,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S1689,IntentionTest,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S1773,CANDOR,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S1811,HieraTest,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S2056,KTester,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S2059,DSrepair,program_repair,ETCLV
+ETCLV example (replaces GT-Repair),S2214,LlamaRestTest,system_test_input_generation,ETCLV
+ETCLV example (replaces GT-Repair),S2359,Locus,system_test_input_generation,ETCLV
+ETCLV example (replaces GT-Repair),S2375,LPR,debugging,ETCLV
+ETCLV example (replaces GT-Repair),S2496,Mokav,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S2509,MR-Coupler,test_oracle_generation,ETCLV
+ETCLV example (replaces GT-Repair),S2561,JUnitGenie,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S2575,FlakyDoctor,program_repair,ETCLV
+ETCLV example (replaces GT-Repair),S2677,PALM,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S2869,ReAccept,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S2920,ReinFix,program_repair,ETCLV
+ETCLV example (replaces GT-Repair),S3063,SAINT,system_test_input_generation,ETCLV
+ETCLV example (replaces GT-Repair),S3450,TestART,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S3474,TestTailor,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S3536,SWE-Reasoner 32B with SWE-SynInfer+ and unified TTC (Dev-Search),program_repair,ETCLV
+ETCLV example (replaces GT-Repair),S3692,SeGa,unit_test_generation,ETCLV
+ETCLV example (replaces GT-Repair),S3824,VulFinder,system_test_input_generation,ETCLV
+ETCLV example (replaces GT-Repair),S3931,DFUZZ,system_test_input_generation,ETCLV
+ETCLOV example (replaces MENTOR),S0182,TELPA,unit_test_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S0250,BugCraft,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S0666,MemoDroid,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S0799,ChatAssert,test_oracle_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S1036,CrashTranslator,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S1971,DroidFiller (integrated with STEM),system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S2077,HyLLfuzz,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S2159,PingFL,debugging,ETCLOV
+ETCLOV example (replaces MENTOR),S2204,Lingxi,program_repair,ETCLOV
+ETCLOV example (replaces MENTOR),S2230,Panta,unit_test_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S2317,LLMDroid,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S2364,LogiDroid,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S2393,GPTDroid,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S2482,MirrorFuzz,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S2551,MutGen,unit_test_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S2582,NIODebugger,program_repair,ETCLOV
+ETCLOV example (replaces MENTOR),S2594,NÜWA,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S2631,ReActDroid,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S2863,RAT (Retrieval-Augmented Testing),system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S2902,RTED,unit_test_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S3082,ScenGen,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S3124,GUIRepair,program_repair,ETCLOV
+ETCLOV example (replaces MENTOR),S3135,FormNexus,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S3237,SpecRover,program_repair,ETCLOV
+ETCLOV example (replaces MENTOR),S3604,LLM-based MT assistance architecture integrated in Gotten,test_oracle_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S3728,TestUpdater,unit_test_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S3774,ParCleanse,test_oracle_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S3821,Elevate,system_test_input_generation,ETCLOV
+ETCLOV example (replaces MENTOR),S3857,WebTestPilot,test_oracle_generation,ETCLOV
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S0229,Engineering Agent,program_repair,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S0717,BugRepro,system_test_input_generation,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S0788,ChainDelta,system_test_input_generation,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S1028,CoverUp,unit_test_generation,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S1047,CuFuzz,system_test_input_generation,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S1353,RustForger,program_repair,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S1428,ExpeRepair,program_repair,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S1590,PropGen,test_oracle_generation,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S1591,TraceRepair,program_repair,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S1639,Fuzz4All,system_test_input_generation,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S2479,MioHint,system_test_input_generation,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S2900,ReFLAIR,bug_analysis,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S3123,Trident,system_test_input_generation,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S3157,SGAgent,program_repair,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S3383,AutoSpec,system_test_input_generation,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S3420,TRACE,program_repair,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S3465,MadFuzz,system_test_input_generation,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S3535,InterDroid,system_test_input_generation,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S3541,TLR,program_repair,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S3737,LANTERN,program_repair,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S3738,SyzGPT,system_test_input_generation,ETCLOVG
+ETCLOVG example with runtime resource budget (replaces MuMuTestUp / EviACT),S3817,VLM-Fuzz,system_test_input_generation,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S0096,AutoFL,debugging,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S0229,Engineering Agent,program_repair,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S0405,Arash,debugging,ETCLVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S0671,BICSleuth,debugging,ETCLOG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S0792,ChaCo (Change And Cover),unit_test_generation,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S0800,ChatDBG,debugging,ETCLOG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S0886,CodeCureAgent,program_repair,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S1076,Debug2Fix,program_repair,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S1256,"FramePilot (agent equipped with Agent-centric Debugging Interface, ADI)",program_repair,ETCLOG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S1353,RustForger,program_repair,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S1560,FlexFL,debugging,ETCLVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S1732,GPT-Monkey,system_test_input_generation,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S1750,Guardian,system_test_input_generation,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S1986,DroidAgent,system_test_input_generation,ETCLOG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S2019,Issue2Test,unit_test_generation,ETCLVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S2721,PoCGen,system_test_input_generation,ETCLVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S2773,PAGENT,system_test_input_generation,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S2923,RepairAgent,program_repair,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S3025,RippleGUItester,system_test_input_generation,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S3065,Sakura,unit_test_generation,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S3123,Trident,system_test_input_generation,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S3157,SGAgent,program_repair,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S3236,SpecOps,system_test_input_generation,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S3383,AutoSpec,system_test_input_generation,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S3444,AdverTest,unit_test_generation,ETCLVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S3472,Testora,bug_analysis,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S3649,TransferFuzz-Pro,system_test_input_generation,ETCLOVG
+Governance example with action scope or containment (replaces EviACT / Loose et al.),S3738,SyzGPT,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S0156,ACME,system_test_input_generation,ECLV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S0190,AdvSCanner,system_test_input_generation,ETCLV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S0250,BugCraft,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S0666,MemoDroid,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S0717,BugRepro,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S0788,ChainDelta,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S1036,CrashTranslator,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S1047,CuFuzz,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S1152,Diffploit,system_test_input_generation,ETCLVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S1292,DLLens,system_test_input_generation,ETCLV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S1316,PSG,system_test_input_generation,ETCLO
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S1639,Fuzz4All,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S1732,GPT-Monkey,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S1750,Guardian,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S1891,RepGen,system_test_input_generation,TCLV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S1971,DroidFiller (integrated with STEM),system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S1986,DroidAgent,system_test_input_generation,ETCLOG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S1989,ITeM,system_test_input_generation,ETCLO
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2077,HyLLfuzz,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2214,LlamaRestTest,system_test_input_generation,ETCLV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2317,LLMDroid,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2350,LMFuzz,system_test_input_generation,ECLVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2359,Locus,system_test_input_generation,ETCLV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2364,LogiDroid,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2393,GPTDroid,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2479,MioHint,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2482,MirrorFuzz,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2559,TestRefineGen,system_test_input_generation,ETCLVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2594,NÜWA,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2631,ReActDroid,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2721,PoCGen,system_test_input_generation,ETCLVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2773,PAGENT,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S2863,RAT (Retrieval-Augmented Testing),system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3025,RippleGUItester,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3063,SAINT,system_test_input_generation,ETCLV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3082,ScenGen,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3123,Trident,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3135,FormNexus,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3236,SpecOps,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3260,BugHunter,system_test_input_generation,ETCLO
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3383,AutoSpec,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3465,MadFuzz,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3535,InterDroid,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3649,TransferFuzz-Pro,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3696,"Traditional matcher + ChatGPT Web UI test repair with explanation validator and self-correction (e.g., EDIT DIS+ChatGPT)",system_test_input_generation,TCLV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3738,SyzGPT,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3803,ViBR,system_test_input_generation,ETCLO
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3817,VLM-Fuzz,system_test_input_generation,ETCLOVG
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3821,Elevate,system_test_input_generation,ETCLOV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3824,VulFinder,system_test_input_generation,ETCLV
+System-input pair with identical combination (replaces ReFuzzer / GLMFuzz),S3931,DFUZZ,system_test_input_generation,ETCLV
+Bug-analysis example without Execution (replaces InferROI),S1672,GadgetHunter,bug_analysis,TCLVG
+Bug-analysis example without Execution (replaces InferROI),S3021,RFCAudit,bug_analysis,TCL

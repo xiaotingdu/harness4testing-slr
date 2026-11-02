@@ -1,0 +1,16 @@
+﻿rank,signature,n_components,papers,share,tasks
+1,ETCLV,5,40,26.0%,bug_analysis; debugging; program_repair; system_test_input_generation; test_oracle_generation; unit_test_generation
+2,ETCLOVG,7,35,22.7%,bug_analysis; debugging; program_repair; system_test_input_generation; test_oracle_generation; unit_test_generation
+3,ETCLOV,6,29,18.8%,debugging; program_repair; system_test_input_generation; test_oracle_generation; unit_test_generation
+4,ETCLVG,6,13,8.4%,debugging; program_repair; system_test_input_generation; unit_test_generation
+5,ETCLO,5,8,5.2%,debugging; program_repair; system_test_input_generation
+6,TCL,3,6,3.9%,bug_analysis; debugging; program_repair; unit_test_generation
+7,TCLV,4,5,3.2%,debugging; program_repair; system_test_input_generation; unit_test_generation
+8,ETCLOG,6,4,2.6%,debugging; program_repair; system_test_input_generation
+9,ECLVG,5,3,1.9%,program_repair; system_test_input_generation
+10,TCLOV,5,3,1.9%,debugging; program_repair
+11,TCLVG,5,3,1.9%,bug_analysis; program_repair
+12,ECLV,4,2,1.3%,program_repair; system_test_input_generation
+13,TCLOVG,6,1,0.6%,system_test_input_generation
+14,TCLO,4,1,0.6%,debugging
+15,CLV,3,1,0.6%,system_test_input_generation

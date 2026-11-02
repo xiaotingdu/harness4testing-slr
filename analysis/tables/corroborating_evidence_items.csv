@@ -1,0 +1,11 @@
+﻿evidence_kind,distinct_items,papers
+manual or human review,166,75
+maintainer or developer confirmation,159,46
+other,24,17
+alignment with separate result,22,18
+external or temporal benchmark,14,13
+security or vulnerability confirmation,7,4
+reproduction or trace replay,5,4
+LLM judge,3,3
+mutation analysis,2,2
+TOTAL (statistical tests excluded),402,122

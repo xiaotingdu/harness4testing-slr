@@ -1,0 +1,33 @@
+﻿property,alignment,primary_claims,property_total,papers
+adequacy,fully-corroborated-within-reported-scope,35,452,15
+adequacy,no-independent-corroboration,403,452,73
+adequacy,partially-corroborated,14,452,9
+effectiveness,fully-corroborated-within-reported-scope,64,1163,18
+effectiveness,no-independent-corroboration,1012,1163,128
+effectiveness,partially-corroborated,77,1163,41
+effectiveness,unclear,10,1163,7
+efficiency/cost,fully-corroborated-within-reported-scope,9,360,3
+efficiency/cost,independent-evidence-present-but-claim-incompatible,1,360,1
+efficiency/cost,no-independent-corroboration,332,360,100
+efficiency/cost,partially-corroborated,17,360,6
+efficiency/cost,unclear,1,360,1
+fault revelation,fully-corroborated-within-reported-scope,22,264,16
+fault revelation,independent-evidence-present-but-claim-incompatible,1,264,1
+fault revelation,no-independent-corroboration,176,264,45
+fault revelation,partially-corroborated,64,264,42
+fault revelation,unclear,1,264,1
+human/practical quality,fully-corroborated-within-reported-scope,4,124,4
+human/practical quality,independent-evidence-present-but-claim-incompatible,1,124,1
+human/practical quality,no-independent-corroboration,99,124,49
+human/practical quality,partially-corroborated,20,124,14
+other,independent-evidence-present-but-claim-incompatible,1,85,1
+other,no-independent-corroboration,75,85,37
+other,partially-corroborated,9,85,7
+robustness/stability,fully-corroborated-within-reported-scope,1,170,1
+robustness/stability,no-independent-corroboration,160,170,76
+robustness/stability,partially-corroborated,9,170,9
+validity,fully-corroborated-within-reported-scope,11,397,4
+validity,independent-evidence-present-but-claim-incompatible,4,397,3
+validity,no-independent-corroboration,352,397,91
+validity,partially-corroborated,23,397,14
+validity,unclear,7,397,3

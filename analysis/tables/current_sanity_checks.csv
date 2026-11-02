@@ -1,0 +1,11 @@
+﻿check,passed
+tasks sum to corpus,True
+years sum to corpus,True
+half-years sum to corpus,True
+venues sum to corpus,True
+signatures sum to corpus,True
+every TODO-DATA marker covered,True
+method PRISMA numbers equal prisma_boxes,True
+full-text agreement reproduces 91.6% / 0.827,True
+screening agreement reproduces 85.9% / 0.671,True
+each row has a sentence,True

@@ -1,0 +1,15 @@
+﻿box,records,source file
+Records identified (arXiv / IEEE / ACM / venue sweep),"5,758 (2,262 / 2,290 / 633 / 573)",search_redo_2026/08_prisma/prisma_counts_20261026.txt
+Removed: first public date outside 2024-01-01..2026-06-30,215,search_redo_2026/08_prisma/prisma_counts_20261026.txt
+Removed: duplicates at merge,"1,601 (= 5,543 - 3,942)",search_redo_2026/08_prisma/prisma_counts_20261026.txt
+Records screened (title/abstract),"3,942",search_redo_2026/07_fulltext/ta_stage_counts.txt
+Excluded at title/abstract,"2,609",search_redo_2026/07_fulltext/ta_stage_counts.txt
+Duplicates removed at title/abstract (first-author review),14,search_redo_2026/07_fulltext/ta_stage_counts.txt
+Reports sought for retrieval,"1,319",search_redo_2026/07_fulltext/ta_stage_counts.txt
+Not retrieved: withdrawn,5,search_redo_2026/08_prisma/prisma_counts_20261026.txt
+Removed: full-text duplicates,7,search_redo_2026/08_prisma/prisma_counts_20261026.txt
+Reports assessed for venue eligibility (C5),"1,307",search_redo_2026/08_prisma/prisma_counts_20261026.txt
+Excluded: venue not eligible (arXiv only / other venue / workshop or other track),972 (580 / 313 / 79),search_redo_2026/08_prisma/prisma_counts_20261026.txt
+Full texts assessed for eligibility,335,search_redo_2026/08_prisma/prisma_counts_20261026.txt
+Excluded at full text (reasons),"181 {'C4b': 7, 'C4': 102, 'C4b (harness not core contribution)': 24, 'C3': 26, 'C3 (scope ruling)': 11, 'C2': 7, 'C1': 3, 'duplicate': 1}",search_redo_2026/08_prisma/prisma_counts_20261026.txt
+Studies included,154,search_redo_2026/08_prisma/prisma_counts_20261026.txt; search_redo_2026/07_fulltext/ft_included.csv

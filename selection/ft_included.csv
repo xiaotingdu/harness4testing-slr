@@ -1,0 +1,155 @@
+﻿record_id,title,venue,route
+S0096,A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization,"PACMSE (FSE, ISSTA)",both models
+S0141,A11YRepair: Bridging Web Accessibility Barriers via Knowledge-Enhanced Divide-and-Conquer Repair,Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (published version),both models
+S0155,ACFix: Guiding LLMs With Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts,IEEE Transactions on Software Engineering,both models
+S0156,ACME: Automated Clause Mapping Engine for Testing Emerging Database Systems,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S0182,Advancing Code Coverage: Incorporating Program Analysis with Large Language Models,ACM Transactions on Software Engineering and Methodology; TOSEM; arXiv,both models
+S0190,AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis,2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE; Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering,both models
+S0201,Agent-Based Ensemble Reasoning for Repository-Level Issue Resolution,ICSE,both models
+S0229,Agentic Program Repair from Test Failures at Scale: A Neuro-symbolic approach with static analysis and test execution feedback,IEEE Transactions on Software Engineering; TSE; arXiv,both models
+S0250,Agents in the Sandbox: End-to-End Crash Bug Reproduction for Minecraft,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE; arXiv,both models
+S0352,An End-to-End Approach for Fixing Concurrency Bugs via SHB-Based Context Extractor,Journal of Systems and Software / Journal of Systems and Software (published version),both models
+S0405,Arash: Token-Efficient LLM-Assisted Crash Root Cause Analysis in Fuzz Driver Generation,ACM Transactions on Software Engineering and Methodology; TOSEM,both models
+S0486,AutoCodeRover: Autonomous Program Improvement,ISSTA; Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis; arXiv,both models
+S0514,Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE; arXiv,both models
+S0518,Automated Knowledge-Aware Test Reuse,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",author1 adjudication
+S0527,Automated Program Repair via Conversation: Fixing 162 out of 337 Bugs for $0.42 Each using ChatGPT,ISSTA; Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis,both models
+S0532,Automated Repair of OpenID Connect Programs,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE,both models
+S0534,Automated Repair of TEE Partitioning Issues via DSL-Guided and LLM-Assisted Patching,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S0666,Beyond Static GUI Agent: Evolving LLM-based GUI Testing via Dynamic Memory,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE,both models
+S0671,Beyond the Sum of Parts: Leveraging Entanglement for Bug Inducing Commit Localization,IEEE Transactions on Software Engineering,both models
+S0682,BLAgent: Agentic RAG for File-Level Bug Localization,ACM Transactions on Software Engineering and Methodology / ACM Transactions on Software Engineering and Methodology (published version),both models
+S0717,BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration,International Conference on Automated Software Engineering / International Conference on Automated Software Engineering (published version),both models
+S0763,Can Old Tests Do New Tricks for Resolving SWE Issues?,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S0771,CASCADE: Detecting Inconsistencies between Code and Documentation with Automatic Test Generation,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S0788,ChainDelta: Automatic Patch-Based Exploit Generation for Ethereum with Fuzzing Agents,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S0792,"Change And Cover: Last-Mile, Pull Request-Based Regression Test Augmentation",ICSE; arXiv,both models
+S0799,ChatAssert: LLM-Based Test Oracle Generation With External Tools Assistance,IEEE Transactions on Software Engineering; TSE,both models
+S0800,ChatDBG: Augmenting Debugging with Large Language Models,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S0826,CITYWALK: Enhancing LLM-Based C++ Unit Test Generation via Project-Dependency Awareness and Language-Specific Knowledge,ACM Transactions on Software Engineering and Methodology; TOSEM; arXiv,both models
+S0886,CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S0953,"Comprehend, Imitate, and then Update: Unleashing the Power of LLMs in Test Suite Evolution",2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE,both models
+S0987,Context-aware prompting for LLM-based program repair,ASE (journal),both models
+S1001,ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs,ACM Transactions on Software Engineering and Methodology; TOSEM; arXiv,both models
+S1028,CoverUp: Effective High Coverage Test Generation for Python,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S1036,CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace,2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE); ICSE; Proceedings of the IEEE/ACM 46th International Conference on Software Engineering,both models
+S1047,CuFuzz: An API-Knowledge-Graph Coverage-Driven Fuzzing Framework for CUDA Libraries,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S1076,Debug2Fix: Can Interactive Debugging Help Coding Agents Fix More Bugs?,Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (published version),both models
+S1078,Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S1109,Demystifying LLM-Based Software Engineering Agents,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S1152,Diffploit: Facilitating Cross-Version Exploit Migration for Open Source Library Vulnerabilities,ICSE; arXiv,both models
+S1227,Effective test generation using pre-trained Large Language Models and mutation testing,IST,both models
+S1256,Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S1292,Enhancing Differential Testing With LLMs For Testing Deep Learning Libraries,ACM Transactions on Software Engineering and Methodology; TOSEM; arXiv,both models
+S1316,Enhancing Protocol Fuzzing via Diverse Seed Corpus Generation,IEEE Transactions on Software Engineering; TSE,both models
+S1343,Error Delayed Is Not Error Handled: Understanding and Fixing Propagated Error-Handling Bugs,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S1345,ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE; arXiv,both models
+S1353,Evaluating and Improving Automated Repository-Level Rust Issue Resolution with LLM-based Agents,ICSE; arXiv,both models
+S1354,Evaluating and Improving ChatGPT for Unit Test Generation,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S1428,EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S1431,Explainable automated debugging via large language model-driven scientific debugging,EMSE,both models
+S1500,Fault Localization from the Semantic Code Search Perspective,TOSEM; arXiv,both models
+S1504,Faultseeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE,both models
+S1560,FlexFL: Flexible and Effective Fault Localization with Open-Source Large Language Models,IEEE Transactions on Software Engineering; TSE; arXiv,both models
+S1590,From Exploration to Specification: LLM-Based Property Generation for Mobile App Testing,Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (published version),both models
+S1591,From Guessing to Seeing: Enhancing LLM-Based Program Repair via Trace-Guided Multi-strategy Debate,Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (published version),both models
+S1635,Fusing LLMs and Genetic Algorithm for High-Quality Unit Test Generation,ACM Transactions on Software Engineering and Methodology; TOSEM,both models
+S1639,Fuzz4ALL: Universal Fuzzing with Large Language Models,2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE); ICSE; Proceedings of the IEEE/ACM 46th International Conference on Software Engineering,both models
+S1672,GadgetHunter: Region-Based Neuro-symbolic Detection of Java Deserialization Vulnerabilities,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S1682,Generalizing Test Cases for Comprehensive Test Scenario Coverage,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S1689,Generating Project-Specific Test Cases with Requirement Validation Intention,Proceedings of the ACM on Software Engineering (published version),both models
+S1732,GPT‐Monkey: Enhancing Automated GUI Testing for Android Apps via LLM‐Driven Interface Understanding and Function Segmentation,IET Software,both models
+S1740,GraphLocator: Graph-Guided Causal Reasoning for Issue Localization,"PACMSE (FSE, ISSTA)",both models
+S1750,Guardian: A Runtime Framework for LLM-Based UI Exploration,ISSTA; Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis,both models
+S1773,Hallucination to Consensus: Multi-Agent LLMs for End-to-End JUnit Test Generation,ACM Transactions on Software Engineering and Methodology; TOSEM; arXiv,both models
+S1811,HieraTest: Hierarchical Dependency-Driven Framework with Multi-Strategy Repair for LLM-Based Unit Test Generation,"2026 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER); SANER",both models
+S1880,iCoRe: An Iterative Correlation-Aware Retriever for Bug Reproduction Test Generation,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S1891,Imitation Game: Reproducing Deep Learning Bugs Leveraging an Intelligent Agent,ICSE; arXiv,both models
+S1956,Input Reduction Enhanced LLM-based Program Repair,ICSE; arXiv,both models
+S1971,Integrating LLM-Based Text Generation with Dynamic Context Retrieval for GUI Testing,"2025 IEEE Conference on Software Testing, Verification and Validation (ICST); ICST",both models
+S1986,Intent-Driven Mobile GUI Testing with Autonomous Large Language Model Agents,"2024 IEEE Conference on Software Testing, Verification and Validation (ICST); ICST",both models
+S1989,Intention-Based GUI Test Migration for Mobile Apps using Large Language Models,"PACMSE (FSE, ISSTA)",both models
+S2017,Issue Localization via LLM-Driven Iterative Code Graph Searching,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE; arXiv,both models
+S2019,Issue2Test: Generating Reproducing Test Cases from Issue Reports,ICSE; arXiv,both models
+S2056,Knowledge Matters: Injecting Project and Testing Knowledge into LLM-based Unit Test Generation,ICSE; arXiv,both models
+S2059,Knowledge-Enhanced Program Repair for Data Science Code,2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE); ICSE; arXiv,both models
+S2077,Large Language Model assisted Hybrid Fuzzing,IEEE Transactions on Software Engineering; TSE; arXiv,both models
+S2159,Let the Code Speak: Incorporating Program Dynamic State for Better Method-Level Fault Localization,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE,both models
+S2204,Lingxi: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling,Proceedings of the ACM on Software Engineering (published version),both models
+S2214,LlamaRestTest: Effective REST API Testing with Small Language Models,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S2230,LLM Test Generation via Iterative Hybrid Program Analysis,ICSE; arXiv,both models
+S2263,LLM-Based Repair of Static Nullability Errors,Proceedings of the ACM on Software Engineering (published version),both models
+S2317,LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S2350,LMFuzz: Program repair fuzzing based on large language models,ASE (journal),both models
+S2359,Locus: Agentic Predicate Synthesis for Directed Fuzzing,ICSE; arXiv,both models
+S2364,LogiDroid: Individual Functional Test Generation via Business Logic Extraction and Adaptation,ACM Transactions on Software Engineering and Methodology / ACM Transactions on Software Engineering and Methodology (published version),both models
+S2375,LPR: Large Language Models-Aided Program Reduction,ISSTA; Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis,author1 adjudication
+S2379,LSPRAG: LSP-Guided RAG for Language-Agnostic Real-Time Unit Test Generation,Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering (published version),both models
+S2393,Make LLM a Testing Expert: Bringing Human-Like Interaction to Mobile GUI Testing via Functionality-Aware Decisions,2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE); ICSE; Proceedings of the IEEE/ACM 46th International Conference on Software Engineering,both models
+S2400,Malo in the Code Jungle: Explainable Fault Localization for Decentralized Applications,IEEE Transactions on Software Engineering; TSE,both models
+S2440,Memory-Efficient Large Language Models for Program Repair with Semantic-Guided Patch Generation,ICSE; arXiv,both models
+S2479,MioHint: LLM-Assisted Request Mutation for Whitebox REST API Testing,ICSE,both models
+S2482,MirrorFuzz: Leveraging LLM and Shared Bugs for Deep Learning Framework APIs Fuzzing,IEEE Transactions on Software Engineering; TSE; arXiv,both models
+S2496,Mokav: Execution-driven Differential Testing with LLMs,JSS; arXiv,both models
+S2509,MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis,"PACMSE (FSE, ISSTA); arXiv",both models
+S2551,Mutation-Guided Unit Test Generation with a Large Language Model,IEEE Transactions on Software Engineering; TSE; arXiv,both models
+S2559,Navigating Confidentiality in Test Automation: A Case Study in LLM Driven Test Data Generation,"2024 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER); SANER",both models
+S2561,Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE; arXiv,both models
+S2575,Neurosymbolic Repair of Test Flakiness,ISSTA; Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis,both models
+S2582,NIODebugger: A Novel Approach to Repair Non-Idempotent-Outcome Tests with LLM-Based Agent,2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE); ICSE,both models
+S2594,Nüwa: Enhancing MLIR Fuzzing with LLM-Driven Generation and Adaptive Mutation,2025 IEEE International Conference on Software Maintenance and Evolution (ICSME); ICSME,both models
+S2631,One Sentence Can Kill the Bug: Auto-Replay Mobile App Crashes From One-Sentence Overviews,IEEE Transactions on Software Engineering; TSE,both models
+S2666,"ORFuzz: Fuzzing the ""Other Side"" of LLM Safety -- Testing Over-Refusal",2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE; arXiv,both models
+S2677,PALM: Synergizing Program Analysis and LLMs to Enhance Rust Unit Test Coverage,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE; arXiv,both models
+S2721,PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S2773,Program Analysis Guided LLM Agent for Proof-of-Concept Generation,Proceedings of the ACM on Software Engineering (published version),both models
+S2814,PSearch: Search-based Patch Generation in the Era of LLM-based Automated Program Repair,Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (published version),both models
+S2863,RAT: Retrieval-Augmented Testing of Certificate Revocation List Parsers in TLS Implementations,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S2869,REACCEPT: Automated Co-evolution of Production and Test Code Based on Dynamic Validation and Large Language Models,Proceedings of the ACM on Software Engineering,both models
+S2900,ReFLAIR: Detecting Responsive Layout Reflow Issues using Multimodal Generative AI,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S2902,Reflective Unit Test Generation for Precise Type Error Detection with Large Language Models,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE; arXiv,both models
+S2920,Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search,ICSE; arXiv,both models
+S2923,"RepairAgent: An Autonomous, LLM-Based Agent for Program Repair",2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE); ICSE; arXiv,both models
+S3021,RFCAudit: AI Agent for Auditing Protocol Implementations Against RFC Specifications,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE,both models
+S3025,RippleGUItester: Change-Aware Exploratory Testing,Proceedings of the ACM on Software Engineering (published version),both models
+S3063,SAINT: Service-level Integration Test Generation with Program Analysis and LLM-based Agents,ICSE; arXiv,both models
+S3065,Sakura: An Approach for Generating Complex Tests from Natural Language Test Descriptions,Proceedings of the ACM on Software Engineering (published version),both models
+S3082,Scenario-Guided LLM-based Mobile App GUI Testing,ACM Transactions on Software Engineering and Methodology; TOSEM; arXiv,both models
+S3123,Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps,IEEE Transactions on Software Engineering; TSE; arXiv,both models
+S3124,Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE; arXiv,both models
+S3135,Semantic Constraint Inference for Web Form Test Generation,ISSTA; Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis; arXiv,both models
+S3157,SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair,ACM Transactions on Software Engineering and Methodology; TOSEM; arXiv,both models
+S3197,SoapFL: A Standard Operating Procedure for LLM-Based Method-Level Fault Localization,IEEE Transactions on Software Engineering; TSE,both models
+S3236,SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments,ICSE; arXiv,both models
+S3237,SpecRover: Code Intent Extraction via LLMs,2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE); ICSE; arXiv,both models
+S3260,Standing on the Shoulders of Giants: Bug-Aware Automated GUI Testing via Retrieval Augmentation,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S3329,SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution,ICSE; arXiv,both models
+S3383,Synthesizing Precise Protocol Specs from Natural Language for Effective Test Generation,"2026 IEEE International Conference on Software Testing, Verification and Validation (ICST); arXiv",both models
+S3420,Template-guided interpretable reasoning with execution feedback for LLM-based program repair,IST,both models
+S3444,Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation,Proceedings of the ACM on Software Engineering (published version),both models
+S3450,TestART: Improving LLM-based Unit Testing via Co-evolution of Automated Generation and Repair Iteration,ACM Transactions on Software Engineering and Methodology / ACM Transactions on Software Engineering and Methodology (published version),both models
+S3465,Testing like Mad Libs: Fuzzing SMT Solvers with Historical Unusual Inputs Empowered by LLMs,TOSEM,both models
+S3472,Testora: Using Natural Language Intent to Detect Behavioral Regressions,ICSE; arXiv,both models
+S3474,TestTailor: Generating High-Coverage Tests via Path-Proximal Tests with LLMs,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S3475,"TestWeaver: Execution-aware, Feedback-driven Regression Testing Generation with Large Language Models",ICSE; arXiv,both models
+S3535,Think Outside the Box: Automating Inter-App Functionality Testing via Memory Implanting and Reasoning,ICSE,both models
+S3536,"Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute",2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE; arXiv,both models
+S3537,ThinkRepair: Self-Directed Automated Program Repair,ISSTA; Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis; arXiv,both models
+S3541,TLR: Codebase-Level C Memory Management Error Repair with Large Language Models,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S3590,Towards Explorative IRBL: Combining Semantic Retrieval with LLM-driven Iterative Code Exploration,Proceedings of the ACM on Software Engineering (published version),both models
+S3604,Towards metamorphic testing with LLM-based workflows: Metamorphic relation inference and follow-up test case generation,IST,both models
+S3649,TransferFuzz-Pro: Large Language Model Driven Code Debugging Technology for Verifying Propagated Vulnerability,IEEE Transactions on Software Engineering; TSE,both models
+S3692,Uncovering Business Logic Bugs via Semantics-Driven Unit Test Generation,Proceedings of the ACM on Software Engineering (published version),both models
+S3696,Understanding and Enhancing Attribute Prioritization in Fixing Web UI Tests with LLMs,"2025 IEEE Conference on Software Testing, Verification and Validation (ICST); ICST",author1 adjudication
+S3728,Unit Test Update through LLM-Driven Context Collection and Error-Type-Aware Refinement,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE; arXiv,both models
+S3737,Unlocking LLM Repair Capabilities Through Cross-Language Translation and Multi-Agent Refinement,ICSE; arXiv,both models
+S3738,Unlocking Low Frequency Syscalls in Kernel Fuzzing with Dependency-Based RAG,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering",both models
+S3774,Validating Network Protocol Parsers with Traceable RFC Document Interpretation,"PACMSE (FSE, ISSTA); arXiv",both models
+S3788,VeriExploit: Automatic Bug Reproduction in Smart Contracts via LLMs and Formal Methods,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE); ASE,both models
+S3803,ViBR: Automated Bug Replay from Video-based Reports using Vision-Language Models,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S3817,VLM-Fuzz: Vision language model assisted recursive depth-first search exploration for effective GUI testing of android apps,EMSE,both models
+S3821,VUI Testing of VPA Apps via Behavior Model-Enhanced LLM Agents,ACM Transactions on Software Engineering and Methodology; TOSEM,both models
+S3824,VulFinder: A Multi‐Agent‐Driven Test Generation Framework for Guiding Vulnerability Reachability Analysis,IET Software,both models
+S3857,WebTestPilot: Agentic End-to-End Web Testing against Natural Language Specification by Inferring Oracles with Symbolized GUI Elements,"PACMSE (FSE, ISSTA); Proceedings of the ACM on Software Engineering; arXiv",both models
+S3861,Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair,Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering (published version),both models
+S3931,Your Fix Is My Exploit: Enabling Comprehensive DL Library API Fuzzing with Large Language Models,2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE); ICSE; arXiv,both models

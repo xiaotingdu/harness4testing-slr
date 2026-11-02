@@ -1,0 +1,7 @@
+loaded {'arXiv': 2262, 'IEEE': 2290, 'ACM': 633, 'Venue': 573} 5758 date removed 215 after date 5543 merged 3942
+sought 1319 withdrawn 5 ftdup 7 ve rows 1307 {'arXiv only': 580, 'selected venue (main track)': 335, 'other venue': 313, 'workshop/companion/other track': 79}
+unreadable S0371,PDF body font encoding garbled in pypdf and pdftotext; assess from PDF images
+
+assessed 335 S0371 in False set()
+ft excl reasons {'C4b': 7, 'C4': 102, 'C4b (harness not core contribution)': 24, 'C3': 26, 'C3 (scope ruling)': 11, 'C2': 7, 'C1': 3, 'duplicate': 1} 181 | included 154
+both-ex reason differs 14

@@ -1,0 +1,7 @@
+﻿task,papers_with_directional_rows,directional_rows,trade_off_rows
+unit_test_generation,30,237,28
+test_oracle_generation,4,29,22
+system_test_input_generation,46,350,50
+bug_analysis,5,39,19
+debugging,15,84,7
+program_repair,38,301,64

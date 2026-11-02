@@ -1,0 +1,76 @@
+﻿family,papers,recurring_ge3,principal_task,unit_test_generation,test_oracle_generation,system_test_input_generation,bug_analysis,debugging,program_repair,record_ids
+Defects4J,25,True,program_repair,7,0,0,0,6,12,S0096; S0182; S0527; S0671; S0987; S1001; S1431; S1500; S1560; S1591; S1635; S1811; S2159; S2230; S2440; S2561; S2814; S2920; S2923; S3197; S3420; S3444; S3450; S3537; S3737
+SWE-bench (all variants),22,True,program_repair,2,0,0,0,4,16,S0201; S0486; S0682; S0763; S1076; S1109; S1256; S1353; S1428; S1740; S2017; S2019; S2204; S2814; S3124; S3157; S3237; S3329; S3444; S3536; S3590; S3737
+HumanEval,8,True,unit_test_generation,5,0,0,0,0,3,S1001; S1028; S1227; S1354; S1431; S1773; S2440; S2551
+Themis,7,True,system_test_input_generation,0,0,7,0,0,0,S0717; S1732; S1986; S2393; S3260; S3803; S3817
+QuixBugs,6,True,program_repair,1,0,0,0,0,5,S0527; S0987; S1001; S2496; S2814; S3537
+CodaMosa benchmark,4,True,unit_test_generation,4,0,0,0,0,0,S0182; S1028; S3474; S3475
+ARVO,3,True,program_repair,0,0,1,0,0,2,S1956; S2773; S3861
+AndroR2,3,True,system_test_input_generation,0,0,3,0,0,0,S0717; S1036; S2631
+BugsInPy,3,True,unit_test_generation,1,0,0,0,1,1,S0096; S1431; S2902
+ReCDroid dataset,3,True,system_test_input_generation,0,0,3,0,0,0,S0717; S1036; S2631
+ConDefects,2,False,program_repair,0,0,0,0,0,2,S0527; S2814
+CraftDroid dataset,2,False,system_test_input_generation,0,0,2,0,0,0,S1989; S2364
+EvoMaster benchmark (EMB),2,False,system_test_input_generation,0,0,2,0,0,0,S2479; S3063
+FrUITeR dataset,2,False,system_test_input_generation,0,0,2,0,0,0,S1989; S2364
+GHRB,2,False,debugging,0,0,0,0,2,0,S1560; S3590
+GitBug-Java,2,False,program_repair,0,0,0,0,0,2,S1076; S2923
+GrowingBugs,2,False,unit_test_generation,1,0,0,0,1,0,S1500; S3444
+HITS dataset,2,False,unit_test_generation,2,0,0,0,0,0,S2056; S3450
+IDoFT,2,False,program_repair,0,0,0,0,0,2,S2575; S2582
+LeetCode-Java,2,False,unit_test_generation,2,0,0,0,0,0,S1773; S2551
+MAGMA,2,False,system_test_input_generation,0,0,2,0,0,0,S2077; S2359
+RWB,2,False,program_repair,0,0,0,0,0,2,S2920; S3537
+SWT-bench,2,False,unit_test_generation,2,0,0,0,0,0,S1880; S2019
+ScopeDroid dataset,2,False,system_test_input_generation,0,0,2,0,0,0,S0717; S2631
+SmartBugs-curated,2,False,system_test_input_generation,0,0,2,0,0,0,S0190; S3788
+TDD-Bench,2,False,unit_test_generation,2,0,0,0,0,0,S0514; S1880
+VUL4J,2,False,program_repair,0,0,0,0,0,2,S2814; S3157
+ACPR,1,False,program_repair,0,0,0,0,0,1,S1078
+AFLGo dataset,1,False,system_test_input_generation,0,0,1,0,0,0,S3649
+All Things Reentrancy,1,False,system_test_input_generation,0,0,1,0,0,0,S0190
+AndroTest,1,False,system_test_input_generation,0,0,1,0,0,0,S3817
+Benchmark-C (program reduction),1,False,debugging,0,0,0,0,1,0,S2375
+Benchmark-Rust (program reduction),1,False,debugging,0,0,0,0,1,0,S2375
+BugBench,1,False,debugging,0,0,0,0,1,0,S0800
+BugsC++,1,False,debugging,0,0,0,0,1,0,S0800
+CyberGym,1,False,system_test_input_generation,0,0,1,0,0,0,S2773
+DAFL dataset,1,False,system_test_input_generation,0,0,1,0,0,0,S3649
+DS-1000,1,False,program_repair,0,0,0,0,0,1,S2059
+DebugBench,1,False,program_repair,0,0,0,0,0,1,S3420
+ERAP,1,False,system_test_input_generation,0,0,1,0,0,0,S0190
+ESC,1,False,system_test_input_generation,0,0,1,0,0,0,S0190
+FuzzBench,1,False,system_test_input_generation,0,0,1,0,0,0,S2077
+GIFdroid suite,1,False,system_test_input_generation,0,0,1,0,0,0,S3803
+Gleipner,1,False,bug_analysis,0,0,0,1,0,0,S1672
+Imtiaz et al. web test repair dataset,1,False,system_test_input_generation,0,0,1,0,0,0,S3696
+JaConTeBe,1,False,program_repair,0,0,0,0,0,1,S0352
+LocBench,1,False,debugging,0,0,0,0,1,0,S1740
+MoTIF,1,False,system_test_input_generation,0,0,1,0,0,0,S1750
+OSS-Fuzz,1,False,program_repair,0,0,0,0,0,1,S1956
+Odin dataset,1,False,system_test_input_generation,0,0,1,0,0,0,S3123
+PFix benchmarks,1,False,program_repair,0,0,0,0,0,1,S0352
+Pecan benchmarks,1,False,program_repair,0,0,0,0,0,1,S0352
+ReentrancyStudy-Data,1,False,system_test_input_generation,0,0,1,0,0,0,S0190
+Refactory,1,False,unit_test_generation,1,0,0,0,0,0,S1227
+RegDroid dataset,1,False,system_test_input_generation,0,0,1,0,0,0,S3123
+SAVER dataset,1,False,program_repair,0,0,0,0,0,1,S3541
+SIR,1,False,program_repair,0,0,0,0,0,1,S0352
+SecBench.js,1,False,system_test_input_generation,0,0,1,0,0,0,S2721
+SelectFuzz dataset,1,False,system_test_input_generation,0,0,1,0,0,0,S3649
+Slither/SoMo/SPCon labelled cases,1,False,program_repair,0,0,0,0,0,1,S0155
+Solidity Security by Example,1,False,system_test_input_generation,0,0,1,0,0,0,S0190
+Sorald dataset,1,False,program_repair,0,0,0,0,0,1,S0886
+TARBENCH,1,False,unit_test_generation,1,0,0,0,0,0,S3728
+TECO dataset,1,False,test_oracle_generation,0,1,0,0,0,0,S0799
+TEMdroid dataset,1,False,system_test_input_generation,0,0,1,0,0,0,S2364
+TransformedD4J,1,False,program_repair,0,0,0,0,0,1,S2440
+TypeBugs,1,False,unit_test_generation,1,0,0,0,0,0,S2902
+UNIFUZZ,1,False,system_test_input_generation,0,0,1,0,0,0,S2077
+UQ-AAS21,1,False,system_test_input_generation,0,0,1,0,0,0,S3821
+V2S recordings,1,False,system_test_input_generation,0,0,1,0,0,0,S3803
+VJBench,1,False,program_repair,0,0,0,0,0,1,S3157
+VulnLoc,1,False,program_repair,0,0,0,0,0,1,S3861
+Ye et al. dataset,1,False,debugging,0,0,0,0,1,0,S3590
+xCodeEval,1,False,program_repair,0,0,0,0,0,1,S3737
+ysoserial,1,False,bug_analysis,0,0,0,1,0,0,S1672

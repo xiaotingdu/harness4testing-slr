@@ -1,0 +1,6 @@
+﻿half_year,unit_test_generation,test_oracle_generation,system_test_input_generation,bug_analysis,debugging,program_repair,total
+2024 H1,1,0,5,0,0,0,6
+2024 H2,2,1,3,0,2,5,13
+2025 H1,2,1,11,0,4,8,26
+2025 H2,11,0,11,1,7,8,38
+2026 H1,16,4,23,4,3,21,71
